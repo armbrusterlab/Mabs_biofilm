@@ -1,0 +1,56 @@
+      1 Mycobacteriaceae
+      1 Mycobacterium kyogaense
+      1 Mycobacterium lentiflavum
+      5 Mycobacterium sp.
+      3 Mycobacterium sp. 852013-50091_SCH5140682
+      1 Mycobacterium sp. ACS4331
+      1 Mycobacterium sp. BK086
+      1 Mycobacterium sp. CnD-18-1
+      1 Mycobacterium sp. DL440
+      1 Mycobacterium sp. DL99
+      2 Mycobacterium sp. E802
+      1 Mycobacterium sp. ELW1
+      1 Mycobacterium sp. ENV421
+      1 Mycobacterium sp. EPa45
+      1 Mycobacterium sp. M26
+      1 Mycobacterium sp. NPDC050441
+      1 Mycobacterium sp. NS-7484
+      2 Mycobacterium sp. PSTR-4-N
+      1 Mycobacterium sp. RTGN5
+      1 Mycobacterium sp. SA01
+      2 Mycobacterium sp. shizuoka-1
+      1 Mycobacterium syngnathidarum
+     58 Mycobacteroides abscessus
+     16 Mycobacteroides abscessus subsp. abscessus
+      1 Mycobacteroides abscessus subsp. massiliense
+      1 Mycobacteroides franklinii
+      3 Mycobacteroides immunogenum
+      1 Mycolicibacterium aichiense
+      1 Mycolicibacterium aromaticivorans
+      2 Mycolicibacterium chlorophenolicum
+      1 Mycolicibacterium chubuense
+      1 Mycolicibacterium chubuense NBB4
+      1 Mycolicibacterium fluoranthenivorans
+      1 Mycolicibacterium frederiksbergense
+      1 Mycolicibacterium helvum
+      1 Mycolicibacterium holsaticum
+      2 Mycolicibacterium insubricum
+      4 Mycolicibacterium neoaurum
+      1 Mycolicibacterium neoaurum VKM Ac-1815D
+      1 Mycolicibacterium nivoides
+      2 Mycolicibacterium obuense
+      6 Mycolicibacterium peregrinum
+      1 Mycolicibacterium rhodesiae
+      1 Mycolicibacterium sarraceniae
+      2 Mycolicibacterium septicum
+      1 Mycolicibacterium sp.
+      1 Mycolicibacterium sp. 050158
+      1 Mycolicibacterium sp. 120266
+      1 Mycolicibacterium sp. 624
+      1 Mycolicibacterium sp. BK634
+      1 Mycolicibacterium sp. CH28
+      1 Mycolicibacterium sp. P1-5
+      1 Mycolicibacterium sp. lyk4-40-TYG-92
+      1 Mycolicibacterium sphagni
+      4 unclassified Mycolicibacterium
+      1 uncultured Mycobacterium sp.

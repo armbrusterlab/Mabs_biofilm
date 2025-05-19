@@ -1,0 +1,381 @@
+
+Candidatus Mycobacterium methanotrophicum
+Candidatus Mycobacterium wuenschmannii
+Candidatus Mycolicibacterium alkanivorans
+Mycobacteriaceae
+Mycobacteriaceae bacterium
+Mycobacteriaceae bacterium 1482268.1
+Mycobacteriales
+Mycobacterium
+Mycobacterium adipatum
+Mycobacterium ahvazicum
+Mycobacterium alsense
+Mycobacterium angelicum
+Mycobacterium aquaticum
+Mycobacterium arosiense
+Mycobacterium asiaticum
+Mycobacterium attenuatum
+Mycobacterium avium
+Mycobacterium avium complex (MAC)
+Mycobacterium avium subsp. paratuberculosis
+Mycobacterium barrassiae
+Mycobacterium basiliense
+Mycobacterium botniense
+Mycobacterium bourgelatii
+Mycobacterium branderi
+Mycobacterium canetti
+Mycobacterium celatum
+Mycobacterium colombiense
+Mycobacterium conspicuum
+Mycobacterium cookii
+Mycobacterium decipiens
+Mycobacterium deserti
+Mycobacterium dioxanotrophicus
+Mycobacterium florentinum
+Mycobacterium fragae
+Mycobacterium gallinarum
+Mycobacterium gastri
+Mycobacterium genavense
+Mycobacterium gordonae
+Mycobacterium haemophilum
+Mycobacterium heckeshornense
+Mycobacterium heidelbergense
+Mycobacterium helveticum
+Mycobacterium hippophais
+Mycobacterium hubeiense
+Mycobacterium innocens
+Mycobacterium interjectum
+Mycobacterium intermedium
+Mycobacterium intracellulare
+Mycobacterium intracellulare subsp. yongonense
+Mycobacterium kansasii
+Mycobacterium kansasii 662
+Mycobacterium kubicae
+Mycobacterium kyogaense
+Mycobacterium kyorinense
+Mycobacterium lacus
+Mycobacterium lehmannii
+Mycobacterium lentiflavum
+Mycobacterium liflandii
+Mycobacterium malmoense
+Mycobacterium mantenii
+Mycobacterium marinum
+Mycobacterium marinum str. Europe
+Mycobacterium marseillense
+Mycobacterium montefiorense
+Mycobacterium nebraskense
+Mycobacterium neglectum
+Mycobacterium noviomagense
+Mycobacterium novum
+Mycobacterium numidiamassiliense
+Mycobacterium ostraviense
+Mycobacterium palustre
+Mycobacterium paraense
+Mycobacterium paraffinicum
+Mycobacterium paragordonae
+Mycobacterium paraintracellulare
+Mycobacterium parascrofulaceum
+Mycobacterium paraseoulense
+Mycobacterium paraterrae
+Mycobacterium parmense
+Mycobacterium pinniadriaticum
+Mycobacterium pseudokansasii
+Mycobacterium pseudoshottsii JCM 15466
+Mycobacterium rhizamassiliense
+Mycobacterium saskatchewanense
+Mycobacterium scrofulaceum
+Mycobacterium senriense
+Mycobacterium seoulense
+Mycobacterium sherrisii
+Mycobacterium shigaense
+Mycobacterium shimoidei
+Mycobacterium shinjukuense
+Mycobacterium simiae
+Mycobacterium simulans
+Mycobacterium sp.
+Mycobacterium sp. 050128
+Mycobacterium sp. 050134
+Mycobacterium sp. 050272
+Mycobacterium sp. 1081908.1
+Mycobacterium sp. 1100029.7
+Mycobacterium sp. 1164985.4
+Mycobacterium sp. 1165178.9
+Mycobacterium sp. 1245111.1
+Mycobacterium sp. 1245801.1
+Mycobacterium sp. 1245805.9
+Mycobacterium sp. 1274756.6
+Mycobacterium sp. 1274761.0
+Mycobacterium sp. 141
+Mycobacterium sp. 1423905.2
+Mycobacterium sp. 1465703.0
+Mycobacterium sp. 1482292.6
+Mycobacterium sp. 155
+Mycobacterium sp. 1554424.7
+Mycobacterium sp. 21AC1
+Mycobacterium sp. 236(2023)
+Mycobacterium sp. 29Ha
+Mycobacterium sp. 3519A
+Mycobacterium sp. 663a-19
+Mycobacterium sp. 852002-10029_SCH5224772
+Mycobacterium sp. 852002-30065_SCH5024008
+Mycobacterium sp. 852002-40037_SCH5390672
+Mycobacterium sp. 852002-51057_SCH5723018
+Mycobacterium sp. 852002-51961_SCH5331710
+Mycobacterium sp. 852002-51971_SCH5477799-a
+Mycobacterium sp. 852002-53434_SCH5985345
+Mycobacterium sp. 852013-50091_SCH5140682
+Mycobacterium sp. 852014-50255_SCH5639931
+Mycobacterium sp. ACS1612
+Mycobacterium sp. ACS4331
+Mycobacterium sp. AT1
+Mycobacterium sp. AZCC_0083
+Mycobacterium sp. Aquia_213
+Mycobacterium sp. Aquia_216
+Mycobacterium sp. B14F4
+Mycobacterium sp. D16R24
+Mycobacterium sp. DL440
+Mycobacterium sp. DL592
+Mycobacterium sp. DL99
+Mycobacterium sp. E136
+Mycobacterium sp. E1747
+Mycobacterium sp. E2327
+Mycobacterium sp. E2479
+Mycobacterium sp. E2497
+Mycobacterium sp. E2733
+Mycobacterium sp. E3251
+Mycobacterium sp. E3339
+Mycobacterium sp. E342
+Mycobacterium sp. E796
+Mycobacterium sp. ELW1
+Mycobacterium sp. EPa45
+Mycobacterium sp. G7A2
+Mycobacterium sp. GA-1199
+Mycobacterium sp. GA-1285
+Mycobacterium sp. GA-1841
+Mycobacterium sp. GA-2829
+Mycobacterium sp. HNNTM2301
+Mycobacterium sp. HUMS_1102779
+Mycobacterium sp. HUMS_12744610
+Mycobacterium sp. IEC1808
+Mycobacterium sp. IS-1496
+Mycobacterium sp. IS-1556
+Mycobacterium sp. IS-1742
+Mycobacterium sp. IS-3022
+Mycobacterium sp. ITM-2016-00316
+Mycobacterium sp. ITM-2016-00317
+Mycobacterium sp. ITM-2016-00318
+Mycobacterium sp. ITM-2017-0098
+Mycobacterium sp. JS623
+Mycobacterium sp. KBS0706
+Mycobacterium sp. M23085
+Mycobacterium sp. M26
+Mycobacterium sp. MAA66
+Mycobacterium sp. MBM
+Mycobacterium sp. MFM001
+Mycobacterium sp. MS1601
+Mycobacterium sp. NAZ190054
+Mycobacterium sp. NBC_00419
+Mycobacterium sp. NPDC006124
+Mycobacterium sp. NPDC048908
+Mycobacterium sp. NPDC050441
+Mycobacterium sp. NPDC050551
+Mycobacterium sp. NPDC051804
+Mycobacterium sp. OTB74
+Mycobacterium sp. PO1
+Mycobacterium sp. PS03-16
+Mycobacterium sp. PSTR-4-N
+Mycobacterium sp. RTGN5
+Mycobacterium sp. Root135
+Mycobacterium sp. SM1
+Mycobacterium sp. SMC-11
+Mycobacterium sp. SMC-14
+Mycobacterium sp. SMC-15
+Mycobacterium sp. SMC-17
+Mycobacterium sp. SMC-18
+Mycobacterium sp. SMC-19
+Mycobacterium sp. SMC-2
+Mycobacterium sp. SMC-4
+Mycobacterium sp. SMC-8
+Mycobacterium sp. ST-F2
+Mycobacterium sp. SVM_VP21
+Mycobacterium sp. UM_CSW
+Mycobacterium sp. UM_Kg1
+Mycobacterium sp. URHB0044
+Mycobacterium sp. Z3061
+Mycobacterium sp. pR1184
+Mycobacterium sp. pUA109
+Mycobacterium sp. pV006
+Mycobacterium sp. shizuoka-1
+Mycobacterium spongiae
+Mycobacterium stomatepiae
+Mycobacterium szulgai
+Mycobacterium talmoniae
+Mycobacterium terramassiliense
+Mycobacterium tilburgii
+Mycobacterium timonense
+Mycobacterium triplex
+Mycobacterium tuberculosis
+Mycobacterium ulcerans
+Mycobacterium ulcerans group
+Mycobacterium vicinigordonae
+Mycobacterium xenopi
+Mycobacterium xenopi 4042
+Mycobacterium yunnanensis
+Mycobacteroides abscessus
+Mycobacteroides abscessus 3A-0122-R
+Mycobacteroides abscessus 4S-0303
+Mycobacteroides abscessus 6G-0125-S
+Mycobacteroides abscessus subsp. abscessus
+Mycobacteroides franklinii
+Mycobacteroides immunogenum
+Mycolicibacillus koreensis
+Mycolicibacillus parakoreensis
+Mycolicibacter
+Mycolicibacter acidiphilus
+Mycolicibacter algericus
+Mycolicibacter arupensis
+Mycolicibacter engbaekii
+Mycolicibacter heraklionensis
+Mycolicibacter hiberniae
+Mycolicibacter icosiumassiliensis
+Mycolicibacter kumamotonensis
+Mycolicibacter longobardus
+Mycolicibacter minnesotensis
+Mycolicibacter nonchromogenicus
+Mycolicibacter senuensis
+Mycolicibacter sinensis
+Mycolicibacter terrae
+Mycolicibacter virginiensis
+Mycolicibacterium
+Mycolicibacterium agri
+Mycolicibacterium aichiense
+Mycolicibacterium alvei
+Mycolicibacterium anyangense
+Mycolicibacterium arabiense
+Mycolicibacterium arenosum
+Mycolicibacterium aromaticivorans
+Mycolicibacterium arseniciresistens
+Mycolicibacterium aubagnense
+Mycolicibacterium aurantiacum
+Mycolicibacterium aurum
+Mycolicibacterium austroafricanum
+Mycolicibacterium bacteremicum
+Mycolicibacterium baixiangningiae
+Mycolicibacterium brisbanense
+Mycolicibacterium brumae
+Mycolicibacterium canariasense
+Mycolicibacterium celeriflavum
+Mycolicibacterium chitae
+Mycolicibacterium chlorophenolicum
+Mycolicibacterium chubuense
+Mycolicibacterium conceptionense
+Mycolicibacterium confluentis
+Mycolicibacterium cosmeticum
+Mycolicibacterium crocinum
+Mycolicibacterium cyprinidarum
+Mycolicibacterium doricum
+Mycolicibacterium duvalii
+Mycolicibacterium elephantis
+Mycolicibacterium farcinogenes
+Mycolicibacterium flavescens
+Mycolicibacterium fluoranthenivorans
+Mycolicibacterium fortuitum
+Mycolicibacterium fortuitum subsp. fortuitum DSM 46621 = ATCC 6841 = JCM 6387
+Mycolicibacterium frederiksbergense
+Mycolicibacterium gadium
+Mycolicibacterium gilvum
+Mycolicibacterium goodii
+Mycolicibacterium grossiae
+Mycolicibacterium hassiacum
+Mycolicibacterium hassiacum DSM 44199
+Mycolicibacterium helvum
+Mycolicibacterium hippocampi
+Mycolicibacterium hodleri
+Mycolicibacterium holsaticum
+Mycolicibacterium houstonense
+Mycolicibacterium insubricum
+Mycolicibacterium iranicum
+Mycolicibacterium komanii
+Mycolicibacterium komossense
+Mycolicibacterium lacusdiani
+Mycolicibacterium litorale
+Mycolicibacterium llatzerense
+Mycolicibacterium lutetiense
+Mycolicibacterium madagascariense
+Mycolicibacterium mageritense
+Mycolicibacterium malmesburyense
+Mycolicibacterium mengxianglii
+Mycolicibacterium monacense
+Mycolicibacterium moriokaense
+Mycolicibacterium mucogenicum 261Sha1.1M5
+Mycolicibacterium mucogenicum DSM 44124
+Mycolicibacterium murale
+Mycolicibacterium neoaurum
+Mycolicibacterium neoaurum VKM Ac-1815D
+Mycolicibacterium nivoides
+Mycolicibacterium novocastrense
+Mycolicibacterium obuense
+Mycolicibacterium palauense
+Mycolicibacterium pallens
+Mycolicibacterium parafortuitum
+Mycolicibacterium peregrinum
+Mycolicibacterium phlei
+Mycolicibacterium phlei DSM 43072
+Mycolicibacterium porcinum
+Mycolicibacterium poriferae
+Mycolicibacterium psychrotolerans
+Mycolicibacterium pulveris
+Mycolicibacterium pyrenivorans
+Mycolicibacterium rhodesiae
+Mycolicibacterium rhodesiae JS60
+Mycolicibacterium rufum
+Mycolicibacterium rutilum
+Mycolicibacterium sarraceniae
+Mycolicibacterium sediminis
+Mycolicibacterium septicum
+Mycolicibacterium setense
+Mycolicibacterium smegmatis
+Mycolicibacterium smegmatis MKD8
+Mycolicibacterium sp.
+Mycolicibacterium sp. 018/SC-01/001
+Mycolicibacterium sp. 050158
+Mycolicibacterium sp. 050232
+Mycolicibacterium sp. 120266
+Mycolicibacterium sp. 120270
+Mycolicibacterium sp. 141076
+Mycolicibacterium sp. BiH015
+Mycolicibacterium sp. CBMA 226
+Mycolicibacterium sp. CBMA 234
+Mycolicibacterium sp. CBMA 329
+Mycolicibacterium sp. CH28
+Mycolicibacterium sp. D5.8-2
+Mycolicibacterium sp. GCM10028919
+Mycolicibacterium sp. GF69
+Mycolicibacterium sp. HK-90
+Mycolicibacterium sp. J2
+Mycolicibacterium sp. ND9-15
+Mycolicibacterium sp. OfavD-34-C
+Mycolicibacterium sp. P1-18
+Mycolicibacterium sp. P1-5
+Mycolicibacterium sp. P9-22
+Mycolicibacterium sp. P9-64
+Mycolicibacterium sp. S2-37
+Mycolicibacterium sphagni
+Mycolicibacterium stellerae
+Mycolicibacterium thermoresistibile
+Mycolicibacterium thermoresistibile ATCC 19527
+Mycolicibacterium tokaiense
+Mycolicibacterium tusciae
+Mycolicibacterium vaccae
+Mycolicibacterium vaccae 95051
+Mycolicibacterium vaccae ATCC 25954
+Mycolicibacterium vanbaalenii
+Mycolicibacterium vinylchloridicum
+Mycolicibacterium vulneris
+Mycolicibacterium wolinskyi
+Mycolicibacterium xanthum
+unclassified Mycobacterium
+unclassified Mycobacteroides
+unclassified Mycolicibacterium
+uncultured Mycobacterium sp.
+uncultured Mycolicibacterium sp.

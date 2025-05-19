@@ -1,0 +1,1271 @@
+BLAST Ortholog,Sequence Length
+"WP_255788648.1 helix-turn-helix domain-containing protein, partial [Mycobacteroides abscessus]",36
+"SIG84012.1 Putative transcriptional regulator, IclR [Mycobacteroides abscessus subsp. abscessus]",47
+"PRC62597.1 IclR family transcriptional regulator, partial [Mycobacterium sp. ITM-2017-0098]",69
+"PRC53453.1 IclR family transcriptional regulator, partial [Mycobacterium sp. ITM-2017-0098]",79
+"WP_330867419.1 IclR family transcriptional regulator domain-containing protein, partial [Mycobacterium avium]",80
+SLJ82516.1 pectin degradation repressor protein kdgR [Mycobacteroides abscessus subsp. abscessus],82
+BBY76866.1 hypothetical protein MPRF_37650 [Mycolicibacterium parafortuitum],83
+HTY29390.1 IclR family transcriptional regulator C-terminal domain-containing protein [Mycobacterium sp.],87
+"EPQ79333.1 Transcriptional regulator, IclR family [Mycobacterium marinum str. Europe]",102
+MDZ4268476.1 IclR family transcriptional regulator C-terminal domain-containing protein [Mycobacterium sp.],108
+MBP0573857.1 IclR family transcriptional regulator [Mycobacterium tuberculosis],109
+UHJ58169.1 IclR family transcriptional regulator C-terminal domain-containing protein [Mycolicibacterium fortuitum],111
+MBP0650187.1 IclR family transcriptional regulator [Mycobacterium tuberculosis],112
+SLI82326.1 pectin degradation repressor protein kdgR [Mycobacteroides abscessus subsp. abscessus],120
+HEX7824178.1 IclR family transcriptional regulator C-terminal domain-containing protein [Mycobacterium sp.],123
+HET9566268.1 IclR family transcriptional regulator C-terminal domain-containing protein [Mycobacterium sp.],129
+HVQ51184.1 IclR family transcriptional regulator C-terminal domain-containing protein [Mycobacterium sp.],134
+"SIM49416.1 Putative transcriptional regulator, IclR [Mycobacteroides abscessus subsp. abscessus]",163
+"SIG83974.1 Putative transcriptional regulator, IclR [Mycobacteroides abscessus subsp. abscessus]",163
+HZN79057.1 IclR family transcriptional regulator [Mycobacterium sp.],165
+"WP_255793919.1 IclR family transcriptional regulator, partial [Mycobacteroides abscessus]",185
+"WP_255784787.1 IclR family transcriptional regulator, partial [Mycobacteroides abscessus]",185
+MEO6793354.1 IclR family transcriptional regulator [Mycobacterium sp.],190
+BCZ25578.1 IclR family transcriptional regulator [Mycobacterium senriense],198
+"WP_038861811.1 IclR family transcriptional regulator, partial [Mycobacterium avium]",198
+BBX97628.1 transcriptional regulator [Mycobacterium lacus],208
+"WP_396935219.1 IclR family transcriptional regulator, partial [Mycolicibacterium sp.]",211
+WP_410429545.1 IclR family transcriptional regulator [Mycobacteroides abscessus],212
+"WP_101906301.1 IclR family transcriptional regulator, partial [Mycolicibacterium setense]",214
+HZE16003.1 IclR family transcriptional regulator [Mycobacterium sp.],214
+"WP_255794180.1 IclR family transcriptional regulator, partial [Mycobacteroides abscessus]",215
+MDT5177050.1 hypothetical protein [Mycobacterium sp.],215
+WP_235684124.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],216
+WP_396899248.1 IclR family transcriptional regulator [Mycolicibacterium sp.],216
+WP_263996565.1 IclR family transcriptional regulator [Mycobacterium yunnanensis],216
+"WP_068157430.1 IclR family transcriptional regulator, partial [Mycobacterium kubicae]",217
+GFG89604.1 IclR family transcriptional regulator [Mycobacterium bourgelatii],217
+BBY54501.1 IclR family transcriptional regulator [Mycolicibacillus koreensis],218
+KXW69358.1 IclR family transcriptional regulator [Mycolicibacterium phlei DSM 43072],220
+GAQ32103.1 iclR family transcriptional regulator [Mycobacterium pseudoshottsii JCM 15466],220
+"ALI26208.1 Transcriptional regulator, IclR family [Mycolicibacterium fortuitum]",220
+TDY08840.1 IclR family transcriptional regulator [Mycolicibacterium litorale],220
+"ARR84392.1 transcriptional regulator, IclR family protein [Mycobacterium intracellulare subsp. yongonense]",220
+AFC55291.1 hypothetical protein OCQ_37790 [Mycobacterium paraintracellulare],220
+EUA21159.1 bacterial transcriptional regulator family protein [Mycobacterium kansasii 662],220
+VCT89259.1 HTH-type transcriptional regulator KipR [Mycolicibacterium hassiacum DSM 44199],220
+BBZ45093.1 transcriptional regulator [Mycobacterium parmense],220
+EIU37147.1 putative transcriptional regulator [Mycobacteroides abscessus 6G-0125-S],221
+"WP_373194043.1 IclR family transcriptional regulator, partial [Mycobacterium marinum]",222
+"WP_261861088.1 IclR family transcriptional regulator, partial [Mycobacterium montefiorense]",223
+MCW2567551.1 IclR family transcriptional regulator [Mycobacterium sp.],223
+ODR08010.1 IclR family transcriptional regulator [Mycobacterium sherrisii],224
+BBY79276.1 IclR family transcriptional regulator [Mycolicibacterium pulveris],225
+BBX03416.1 IclR family transcriptional regulator [Mycolicibacterium moriokaense],225
+GAY16560.1 IclR family transcriptional regulator [Mycobacterium sp. shizuoka-1],225
+BBX36087.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],225
+EHI10749.1 regulatory protein IclR [Mycolicibacterium thermoresistibile ATCC 19527],225
+BBZ17489.1 IclR family transcriptional regulator [Mycolicibacterium gadium],225
+BBY90910.1 IclR family transcriptional regulator [Mycobacterium gallinarum],225
+GJJ17230.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],225
+"MDT5337965.1 IclR family transcriptional regulator, acetate operon repressor [Mycobacterium sp.]",225
+BBY07825.1 IclR family transcriptional regulator [Mycobacterium noviomagense],225
+BBY16765.1 IclR family transcriptional regulator [Mycolicibacterium litorale],225
+BBX51442.1 IclR family transcriptional regulator [Mycolicibacterium poriferae],225
+MDT5323181.1 hypothetical protein [Mycobacterium sp.],225
+GFM19230.1 transcriptional regulator [Mycobacterium sp. PO1],225
+BBX71069.1 IclR family transcriptional regulator [Mycolicibacterium psychrotolerans],225
+GFG64129.1 IclR family transcriptional regulator [Mycobacterium kubicae],225
+KEP43022.1 IclR family transcriptional regulator [Mycobacterium kansasii],225
+MDT5007447.1 hypothetical protein [Mycobacterium sp.],225
+MDT5126782.1 hypothetical protein [Mycobacterium sp.],225
+MDT5099647.1 hypothetical protein [Mycobacterium sp.],225
+ANI39209.1 IclR family transcriptional regulator [Mycolicibacterium vaccae 95051],225
+MCU1696415.1 transcriptional regulator [Mycobacterium sp.],226
+WP_355216625.1 IclR family transcriptional regulator [Mycobacterium sp. NPDC006124],226
+WP_264041302.1 IclR family transcriptional regulator [Mycolicibacterium hodleri],226
+"MDT5186771.1 IclR family transcriptional regulator, acetate operon repressor [Mycobacterium sp.]",226
+HZN84378.1 IclR family transcriptional regulator [Mycobacterium sp.],227
+HEY6649974.1 IclR family transcriptional regulator [Mycobacterium sp.],227
+"WP_069424571.1 IclR family transcriptional regulator, partial [Mycolicibacterium porcinum]",227
+"WP_325614572.1 IclR family transcriptional regulator, partial [Mycobacterium sp.]",228
+PEG43059.1 IclR family transcriptional regulator [Mycolicibacterium agri],230
+EIV23878.1 putative transcriptional regulator [Mycobacteroides abscessus 3A-0122-R],230
+OBI58169.1 transcriptional regulator [Mycolicibacterium fortuitum],230
+WP_083452959.1 IclR family transcriptional regulator [Mycolicibacterium goodii],230
+OBG53869.1 transcriptional regulator [Mycolicibacterium fortuitum],230
+KWX26252.1 transcriptional regulator [Mycolicibacterium wolinskyi],230
+MEO8816108.1 IclR family transcriptional regulator [Mycobacterium sp.],231
+HET9874335.1 IclR family transcriptional regulator [Mycobacterium sp.],231
+WP_214092817.1 IclR family transcriptional regulator [Mycolicibacter acidiphilus],232
+EIT90478.1 putative transcriptional regulator [Mycobacteroides abscessus 4S-0303],232
+"SKU92375.1 Putative transcriptional regulator, IclR [Mycobacteroides abscessus subsp. abscessus]",233
+HEX7426095.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_065026153.1 IclR family transcriptional regulator [Mycolicibacter sinensis],233
+HEY5844673.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_308473279.1 IclR family transcriptional regulator [[Mycobacterium] kokjensenii],233
+WP_327534364.1 IclR family transcriptional regulator [uncultured Mycolicibacterium sp.],233
+WP_064923602.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacter],233
+WP_059164364.1 IclR family transcriptional regulator [Mycobacterium sp. IS-3022],233
+WP_064997004.1 IclR family transcriptional regulator [Mycolicibacter nonchromogenicus],233
+HEX5144392.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_065019084.1 IclR family transcriptional regulator [Mycolicibacter sinensis],233
+WP_085262145.1 IclR family transcriptional regulator [Mycolicibacter terrae],233
+WP_326547328.1 IclR family transcriptional regulator [Mycolicibacterium sp. ND9-15],233
+"SBS79405.1 Transcriptional regulator, IclR family [uncultured Mycobacterium sp.]",233
+HPY26259.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_128109053.1 IclR family transcriptional regulator [Mycolicibacterium elephantis],233
+WP_019735335.1 IclR family transcriptional regulator [Mycolicibacter kumamotonensis],233
+WP_065289035.1 IclR family transcriptional regulator [Mycolicibacter kumamotonensis],233
+WP_094285553.1 IclR family transcriptional regulator [Mycobacterium lehmannii],233
+WP_409426622.1 IclR family transcriptional regulator [Mycobacterium sp. SMC-11],233
+WP_067971361.1 IclR family transcriptional regulator [Mycolicibacter icosiumassiliensis],233
+UVO12657.1 IclR family transcriptional regulator [Mycobacterium sp. SVM_VP21],233
+WP_108056441.1 IclR family transcriptional regulator [Mycolicibacterium sphagni],233
+WP_224861359.1 IclR family transcriptional regulator [[Mycobacterium] zoologicum],233
+WP_225400326.1 IclR family transcriptional regulator [[Mycobacterium] zoologicum],233
+WP_059099606.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_057003460.1 IclR family transcriptional regulator [Mycobacterium kyorinense],233
+WP_090339451.1 IclR family transcriptional regulator [Mycolicibacterium malmesburyense],233
+WP_313675245.1 IclR family transcriptional regulator [Mycolicibacterium sp.],233
+WP_163896826.1 IclR family transcriptional regulator [Mycolicibacterium pulveris],233
+WP_316510377.1 IclR family transcriptional regulator [[Mycobacterium] wendilense],233
+WP_105295275.1 IclR family transcriptional regulator [Mycolicibacter virginiensis],233
+WP_083409527.1 IclR family transcriptional regulator [Mycolicibacterium rutilum],233
+HTM84663.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_090281405.1 IclR family transcriptional regulator [Mycolicibacterium komanii],233
+WP_207358294.1 IclR family transcriptional regulator [Mycolicibacterium sp. S2-37],233
+WP_005141736.1 IclR family transcriptional regulator [Mycolicibacterium vinylchloridicum],233
+WP_064422729.1 IclR family transcriptional regulator [Mycobacterium sp. GA-1285],233
+WP_046751335.1 IclR family transcriptional regulator [Mycolicibacterium elephantis],233
+HTI74448.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_083024256.1 IclR family transcriptional regulator [Mycolicibacter minnesotensis],233
+WP_066844930.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_370499491.1 IclR family transcriptional regulator [Mycobacterium sp. pR1184],233
+WP_047319361.1 IclR family transcriptional regulator [Mycolicibacter heraklionensis],233
+WP_342930434.1 IclR family transcriptional regulator [Mycobacterium sp. 050272],233
+WP_064351146.1 IclR family transcriptional regulator [Mycobacterium sp. GA-1199],233
+WP_067293726.1 IclR family transcriptional regulator [Mycobacterium sp. 1164985.4],233
+WP_193465320.1 IclR family transcriptional regulator [Mycobacterium novum],233
+WP_064927519.1 IclR family transcriptional regulator [Mycolicibacterium elephantis],233
+MDT5222019.1 hypothetical protein [Mycobacterium sp.],233
+WP_064414803.1 IclR family transcriptional regulator [Mycolicibacterium novocastrense],233
+WP_013829621.1 IclR family transcriptional regulator [Mycolicibacter sinensis],233
+WP_064398577.1 IclR family transcriptional regulator [Mycobacterium lehmannii],233
+WP_407685656.1 IclR family transcriptional regulator [Mycobacterium sp. HUMS_1102779],233
+WP_065040070.1 IclR family transcriptional regulator [Mycolicibacter heraklionensis],233
+MFN8068980.1 IclR family transcriptional regulator [Mycolicibacterium insubricum],233
+HOB49349.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_059166548.1 IclR family transcriptional regulator [Mycobacterium sp. IS-1556],233
+WP_126334524.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+WP_319431982.1 IclR family transcriptional regulator [Mycobacterium sp. RTGN5],233
+HXO11067.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_069411716.1 IclR family transcriptional regulator [Mycolicibacterium flavescens],233
+WP_265996423.1 IclR family transcriptional regulator [Mycobacterium pinniadriaticum],233
+WP_090601106.1 IclR family transcriptional regulator [Mycobacterium lentiflavum],233
+WP_076196054.1 IclR family transcriptional regulator [Mycobacterium sp. GA-1841],233
+WP_116375922.1 IclR family transcriptional regulator [Mycobacterium sp. MFM001],233
+HET9563769.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MFM9032779.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_239722590.1 IclR family transcriptional regulator [Mycobacterium lentiflavum],233
+HEV7361846.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_267731061.1 IclR family transcriptional regulator [Mycobacterium sp. Aquia_213],233
+WP_313864862.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_085226229.1 IclR family transcriptional regulator [Mycobacterium florentinum],233
+WP_330963867.1 IclR family transcriptional regulator [Mycobacterium sp. 050134],233
+WP_083029874.1 IclR family transcriptional regulator [Mycolicibacterium insubricum],233
+HYB37475.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_083157402.1 IclR family transcriptional regulator [Mycolicibacterium moriokaense],233
+WP_353319175.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_219067196.1 IclR family transcriptional regulator [Candidatus Mycobacterium methanotrophicum],233
+WP_068296479.1 IclR family transcriptional regulator [Mycobacterium sp. E136],233
+WP_115319286.1 IclR family transcriptional regulator [Mycolicibacterium aichiense],233
+WP_085325450.1 IclR family transcriptional regulator [Mycobacterium decipiens],233
+WP_112554291.1 IclR family transcriptional regulator [Mycolicibacterium sp. GF69],233
+WP_075543696.1 IclR family transcriptional regulator [Mycobacterium innocens],233
+WP_347683718.1 IclR family transcriptional regulator [Mycobacterium sp. B14F4],233
+WP_134427187.1 IclR family transcriptional regulator [Mycobacterium ulcerans],233
+WP_096370333.1 IclR family transcriptional regulator [Mycobacterium ulcerans],233
+WP_067092201.1 IclR family transcriptional regulator [Mycobacterium sp. 852002-51961_SCH5331710],233
+OBA59328.1 IclR family transcriptional regulator [Mycobacterium sp. 1100029.7],233
+WP_099249774.1 IclR family transcriptional regulator [Mycobacterium sp. shizuoka-1],233
+WP_036467941.1 IclR family transcriptional regulator [Mycobacterium triplex],233
+WP_135424500.1 IclR family transcriptional regulator [Mycolicibacterium sp. CH28],233
+WP_278223904.1 IclR family transcriptional regulator [Mycolicibacterium gadium],233
+WP_085304477.1 IclR family transcriptional regulator [Mycolicibacillus koreensis],233
+WP_064854619.1 IclR family transcriptional regulator [Mycolicibacter sinensis],233
+WP_286211521.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],233
+WP_163750004.1 IclR family transcriptional regulator [Mycolicibacterium helvum],233
+WP_006242215.1 IclR family transcriptional regulator [Mycolicibacterium tusciae],233
+WP_036436515.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+WP_011740033.1 IclR family transcriptional regulator [Mycobacterium ulcerans],233
+WP_083056712.1 IclR family transcriptional regulator [Mycolicibacterium bacteremicum],233
+WP_268131173.1 IclR family transcriptional regulator [Mycobacterium sp. Aquia_216],233
+ODR05471.1 IclR family transcriptional regulator [Mycolicibacillus koreensis],233
+WP_085264534.1 IclR family transcriptional regulator [Mycolicibacter longobardus],233
+WP_099040105.1 IclR family transcriptional regulator [Mycobacterium neglectum],233
+MDT5088035.1 hypothetical protein [Mycobacterium sp.],233
+WP_025738301.1 IclR family transcriptional regulator [Mycobacterium genavense],233
+WP_083042466.1 IclR family transcriptional regulator [Mycolicibacterium elephantis],233
+WP_003889230.1 IclR family transcriptional regulator [Mycolicibacterium phlei],233
+WP_325339102.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_163789738.1 IclR family transcriptional regulator [Mycobacterium stomatepiae],233
+WP_285188302.1 IclR family transcriptional regulator [Candidatus Mycobacterium wuenschmannii],233
+WP_040548442.1 IclR family transcriptional regulator [Mycolicibacterium thermoresistibile],233
+WP_073679712.1 IclR family transcriptional regulator [Mycolicibacterium goodii],233
+WP_317158084.1 IclR family transcriptional regulator [Mycobacterium sp. 21AC1],233
+MDT5159697.1 hypothetical protein [Mycobacterium sp.],233
+WP_026256232.1 IclR family transcriptional regulator [Mycobacterium sp. 155],233
+HEX2286788.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_067854085.1 IclR family transcriptional regulator [Mycolicibacterium wolinskyi],233
+WP_069398565.1 IclR family transcriptional regulator [Mycobacterium sherrisii],233
+WP_085145272.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+WP_038579190.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium ulcerans group],233
+HEV7583870.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MET0455862.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_012393539.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+MDT5221117.1 hypothetical protein [Mycobacterium sp.],233
+WP_225396595.1 IclR family transcriptional regulator [[Mycobacterium] vasticus],233
+WP_163701407.1 IclR family transcriptional regulator [Mycolicibacterium sarraceniae],233
+WP_117426399.1 IclR family transcriptional regulator [Mycobacterium marinum],233
+WP_085086296.1 IclR family transcriptional regulator [Mycolicibacter senuensis],233
+WP_133689920.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],233
+WP_264062739.1 IclR family transcriptional regulator [Mycobacterium montefiorense],233
+WP_163686217.1 IclR family transcriptional regulator [Mycolicibacterium gadium],233
+MDT5020888.1 hypothetical protein [Mycobacterium sp.],233
+WP_069421937.1 IclR family transcriptional regulator [Mycobacterium intermedium],233
+WP_328815653.1 IclR family transcriptional regulator [Mycolicibacterium sp. 050232],233
+WP_108920666.1 IclR family transcriptional regulator [Mycobacterium montefiorense],233
+WP_267306613.1 IclR family transcriptional regulator [Mycobacterium barrassiae],233
+WP_393425024.1 IclR family transcriptional regulator [Mycobacterium sp. NPDC048908],233
+WP_102806908.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_276759226.1 IclR family transcriptional regulator [Mycolicibacter arupensis],233
+WP_163725818.1 IclR family transcriptional regulator [Mycobacterium gallinarum],233
+WP_280833829.1 IclR family transcriptional regulator [Mycolicibacterium frederiksbergense],233
+HEY5843588.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+HEX3546307.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MBI3216428.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_149380442.1 IclR family transcriptional regulator [Mycobacterium sp. ELW1],233
+WP_180917668.1 IclR family transcriptional regulator [Mycobacterium vicinigordonae],233
+HUL98416.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MDT5082889.1 hypothetical protein [Mycobacterium sp.],233
+WP_044510634.1 IclR family transcriptional regulator [Mycobacterium simiae],233
+WP_319446987.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_224971870.1 IclR family transcriptional regulator [[Mycobacterium] nativiensis],233
+WP_083125957.1 IclR family transcriptional regulator [Mycolicibacterium tusciae],233
+WP_229477773.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],233
+HXO49300.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_069394985.1 IclR family transcriptional regulator [Mycobacterium shimoidei],233
+WP_293003431.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_047329857.1 IclR family transcriptional regulator [Mycobacterium sp. EPa45],233
+WP_085130513.1 IclR family transcriptional regulator [Mycolicibacter engbaekii],233
+MFN8226402.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_085196582.1 IclR family transcriptional regulator [Mycobacterium fragae],233
+WP_046187786.1 IclR family transcriptional regulator [Mycolicibacter arupensis],233
+WP_085151544.1 IclR family transcriptional regulator [Mycolicibacterium confluentis],233
+MDT5083807.1 hypothetical protein [Mycobacterium sp.],233
+WP_085137673.1 IclR family transcriptional regulator [Mycolicibacter hiberniae],233
+HXO51188.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_358029629.1 IclR family transcriptional regulator [Mycobacterium sp. NPDC050441],233
+WP_065014313.1 IclR family transcriptional regulator [Mycobacterium kyorinense],233
+HEX2399371.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+HEX3288378.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_083039056.1 IclR family transcriptional regulator [Mycolicibacter algericus],233
+MDT7760835.1 hypothetical protein [Mycobacterium sp.],233
+MDT5342622.1 hypothetical protein [Mycobacterium sp.],233
+MDT5226017.1 hypothetical protein [Mycobacterium sp.],233
+WP_026356472.1 IclR family transcriptional regulator [Mycobacterium sp. 141],233
+WP_083116745.1 IclR family transcriptional regulator [Mycolicibacterium rhodesiae],233
+HEY0224811.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MDT5142647.1 hypothetical protein [Mycobacterium sp.],233
+WP_046317428.1 IclR family transcriptional regulator [Mycobacterium sp. UM_Kg1],233
+HEX9176916.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_067225119.1 IclR family transcriptional regulator [Mycolicibacterium celeriflavum],233
+MDT5138530.1 hypothetical protein [Mycobacterium sp.],233
+HZN79198.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_308483683.1 IclR family transcriptional regulator [[Mycobacterium] holstebronense],233
+WP_071946340.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+HEY6819389.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_373139087.1 IclR family transcriptional regulator [Mycobacterium marinum],233
+WP_068250928.1 IclR family transcriptional regulator [Mycobacterium sp. ACS4331],233
+WP_036406035.1 IclR family transcriptional regulator [Mycobacterium pseudokansasii],233
+WP_236981772.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_096285962.1 IclR family transcriptional regulator [Mycobacterium ahvazicum],233
+WP_110314935.1 IclR family transcriptional regulator [Mycolicibacterium moriokaense],233
+WP_061558856.1 IclR family transcriptional regulator [Mycobacterium simiae],233
+WP_069407610.1 IclR family transcriptional regulator [Mycolicibacterium holsaticum],233
+MBV8179382.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_036388277.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+WP_317147579.1 IclR family transcriptional regulator [Mycobacterium sp. 29Ha],233
+WP_067341128.1 IclR family transcriptional regulator [Mycobacterium sp. 1245111.1],233
+WP_240274956.1 IclR family transcriptional regulator [Mycobacterium ulcerans],233
+WP_070945263.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_064881892.1 IclR family transcriptional regulator [Mycolicibacterium peregrinum],233
+WP_162463528.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],233
+WP_368574642.1 IclR family transcriptional regulator [Mycolicibacterium porcinum],233
+MBV8860621.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_149773256.1 IclR family transcriptional regulator [Mycolicibacter arupensis],233
+WP_036339162.1 IclR family transcriptional regulator [Mycolicibacterium aromaticivorans],233
+RFZ64475.1 Transcriptional regulator KdgR [Mycobacterium marinum],233
+WP_135453581.1 IclR family transcriptional regulator [Mycobacterium sp. DL99],233
+WP_029111385.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],233
+MDT5355714.1 hypothetical protein [Mycobacterium sp.],233
+MDT5236085.1 hypothetical protein [Mycobacterium sp.],233
+WP_301150357.1 IclR family transcriptional regulator [Mycobacterium simiae],233
+WP_055112748.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],233
+WP_036439384.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+WP_064931324.1 IclR family transcriptional regulator [Mycolicibacterium peregrinum],233
+MBV9722919.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+HEX2214097.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_083088108.1 IclR family transcriptional regulator [Mycobacterium noviomagense],233
+WP_220690507.1 IclR family transcriptional regulator [Mycolicibacterium holsaticum],233
+WP_144207887.1 IclR family transcriptional regulator [Mycobacterium tilburgii],233
+WP_407774709.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MDT5093397.1 hypothetical protein [Mycobacterium sp.],233
+WP_077076972.1 IclR family transcriptional regulator [Mycobacterium numidiamassiliense],233
+WP_163781065.1 IclR family transcriptional regulator [Mycobacterium cookii],233
+WP_003881141.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+MEN3319087.1 hypothetical protein [Mycobacterium sp.],233
+WP_217156951.1 IclR family transcriptional regulator [[Mycobacterium] fortunisiensis],233
+WP_149441726.1 IclR family transcriptional regulator [Mycolicibacterium sp. P1-5],233
+WP_011559320.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+WP_011728309.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],233
+WP_067931996.1 IclR family transcriptional regulator [Mycobacterium sp. E2479],233
+WP_144981352.1 IclR family transcriptional regulator [Mycolicibacterium porcinum],233
+WP_071029550.1 IclR family transcriptional regulator [Mycobacterium talmoniae],233
+HEY2448391.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_102142960.1 IclR family transcriptional regulator [Mycobacterium hubeiense],233
+HEY5841728.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MDT5348027.1 hypothetical protein [Mycobacterium sp.],233
+MBY0286386.1 IclR family transcriptional regulator [Mycobacteriaceae bacterium],233
+WP_328353717.1 IclR family transcriptional regulator [Mycobacterium sp. NBC_00419],233
+HEX4587596.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_067411771.1 IclR family transcriptional regulator [Mycobacterium sp. 1423905.2],233
+WP_406757394.1 IclR family transcriptional regulator [Mycobacterium sp. SMC-15],233
+MDT5387419.1 hypothetical protein [Mycobacterium sp.],233
+WP_024443284.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+HZC91290.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_036410611.1 IclR family transcriptional regulator [Mycobacterium gastri],233
+WP_134052958.1 IclR family transcriptional regulator [Mycolicibacterium litorale],233
+WP_104864689.1 IclR family transcriptional regulator [Mycolicibacterium parafortuitum],233
+WP_152516581.1 IclR family transcriptional regulator [Mycolicibacterium sp. OfavD-34-C],233
+HME13920.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_225404207.1 IclR family transcriptional regulator [[Mycobacterium] crassicus],233
+WP_065129293.1 IclR family transcriptional regulator [Mycobacterium asiaticum],233
+WP_059160286.1 IclR family transcriptional regulator [Mycobacterium sp. IS-1496],233
+WP_066828540.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],233
+WP_135359892.1 IclR family transcriptional regulator [Mycolicibacterium peregrinum],233
+WP_059093631.1 IclR family transcriptional regulator [Mycobacterium sp. IS-1742],233
+WP_406782139.1 IclR family transcriptional regulator [Mycobacterium sp. SMC-19],233
+MET0699879.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_163918244.1 IclR family transcriptional regulator [Mycolicibacterium arabiense],233
+WP_370485570.1 IclR family transcriptional regulator [Mycobacterium sp. pUA109],233
+WP_083129552.1 IclR family transcriptional regulator [Mycobacterium branderi],233
+MCB0948228.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_396729382.1 IclR family transcriptional regulator [Mycobacterium sp. NPDC051804],233
+MCE9515400.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MBV9318471.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_377036826.1 IclR family transcriptional regulator [Mycolicibacterium sp. GCM10028919],233
+MBV9350010.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_163760179.1 IclR family transcriptional regulator [Mycobacterium botniense],233
+WP_163768825.1 IclR family transcriptional regulator [Mycolicibacterium parafortuitum],233
+WP_260763460.1 IclR family transcriptional regulator [Mycobacterium sp. SMC-4],233
+WP_331511791.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MBI3689161.1 IclR family transcriptional regulator [Mycolicibacterium aromaticivorans],233
+WP_065019755.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+WP_064892769.1 IclR family transcriptional regulator [Mycolicibacterium elephantis],233
+WP_331518354.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MCB0941027.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_029114966.1 IclR family transcriptional regulator [Mycobacterium sp. URHB0044],233
+WP_167103929.1 IclR family transcriptional regulator [Mycobacterium sp. DL592],233
+WP_319455489.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_144951360.1 IclR family transcriptional regulator [Mycobacterium helveticum],233
+WP_008259012.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_197380860.1 IclR family transcriptional regulator [Mycolicibacterium mengxianglii],233
+WP_324681259.1 IclR family transcriptional regulator [Mycobacterium sp. 663a-19],233
+WP_185295373.1 IclR family transcriptional regulator [Mycolicibacterium litorale],233
+WP_237573077.1 IclR family transcriptional regulator [Mycolicibacterium lacusdiani],233
+WP_163802708.1 IclR family transcriptional regulator [Mycolicibacterium anyangense],233
+WP_278038217.1 IclR family transcriptional regulator [Mycobacterium sp. 236(2023)],233
+WP_094476291.1 IclR family transcriptional regulator [Mycolicibacterium sphagni],233
+MDT5075045.1 hypothetical protein [Mycobacterium sp.],233
+WP_370490453.1 IclR family transcriptional regulator [Mycobacterium sp. pV006],233
+HEX4391829.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_199253550.1 IclR family transcriptional regulator [Mycolicibacterium mengxianglii],233
+WP_085167739.1 IclR family transcriptional regulator [Mycobacterium celatum],233
+WP_083010543.1 IclR family transcriptional regulator [Mycobacterium malmoense],233
+MCW2553412.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MDT5155044.1 hypothetical protein [Mycobacterium sp.],233
+WP_396931985.1 IclR family transcriptional regulator [Mycolicibacterium sp.],233
+WP_067802222.1 IclR family transcriptional regulator [Mycobacterium sp. ACS1612],233
+WP_163674007.1 IclR family transcriptional regulator [Mycolicibacterium poriferae],233
+MCW2731434.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_071511319.1 IclR family transcriptional regulator [Mycobacterium malmoense],233
+WP_015355134.1 IclR family transcriptional regulator [Mycobacterium liflandii],233
+MDT5186294.1 hypothetical protein [Mycobacterium sp.],233
+MBV8928018.1 IclR family transcriptional regulator [Mycobacteriaceae bacterium],233
+WP_099024849.1 IclR family transcriptional regulator [Mycolicibacterium palauense],233
+WP_186274336.1 IclR family transcriptional regulator [Mycobacterium kubicae],233
+WP_308478661.1 IclR family transcriptional regulator [[Mycobacterium] burgundiense],233
+MDT5114213.1 hypothetical protein [Mycobacterium sp.],233
+WP_101949208.1 IclR family transcriptional regulator [Mycobacterium sp. 3519A],233
+HKH52309.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_015306186.1 IclR family transcriptional regulator [Mycobacterium sp. JS623],233
+MDT5391486.1 hypothetical protein [Mycobacterium sp.],233
+WP_163662614.1 IclR family transcriptional regulator [Mycolicibacterium alvei],233
+WP_067231144.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_122495562.1 IclR family transcriptional regulator [Mycobacterium attenuatum],233
+WP_283605243.1 IclR family transcriptional regulator [Mycolicibacterium poriferae],233
+WP_085188940.1 IclR family transcriptional regulator [Mycolicibacterium doricum],233
+WP_059020899.1 IclR family transcriptional regulator [Mycobacterium sp. M26],233
+WP_098005094.1 IclR family transcriptional regulator [Mycolicibacterium duvalii],233
+WP_325682503.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+TXI39320.1 MAG: IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_066854337.1 IclR family transcriptional regulator [Mycobacterium sp. 1274756.6],233
+MCX6479031.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_213439745.1 IclR family transcriptional regulator [Mycobacterium sp. SM1],233
+WP_075511684.1 IclR family transcriptional regulator [Mycobacterium ostraviense],233
+HEV7421491.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+"MCW2592405.1 transcriptional regulator, IclR family [Mycobacterium sp.]",233
+WP_085174694.1 IclR family transcriptional regulator [Mycolicibacterium iranicum],233
+WP_075545384.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+HEV7418343.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_046184488.1 IclR family transcriptional regulator [Mycobacterium nebraskense],233
+MEO9220447.1 IclR family transcriptional regulator [Mycobacteriaceae bacterium],233
+WP_324395144.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_209917887.1 IclR family transcriptional regulator [Mycolicibacterium lutetiense],233
+MDT5064946.1 hypothetical protein [Mycobacterium sp.],233
+WP_149478513.1 IclR family transcriptional regulator [Mycolicibacterium sp. P1-18],233
+HZQ32820.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_325687188.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+OBA88680.1 IclR family transcriptional regulator [Mycobacteriaceae bacterium 1482268.1],233
+WP_014214099.1 IclR family transcriptional regulator [Mycolicibacterium rhodesiae],233
+MFN8043739.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_409434599.1 IclR family transcriptional regulator [Mycobacterium sp. SMC-14],233
+HEY6645620.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_064849581.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+HZC09767.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_140687743.1 IclR family transcriptional regulator [Mycolicibacterium hodleri],233
+MCB0926215.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_065442073.1 IclR family transcriptional regulator [Mycobacterium malmoense],233
+WP_369739584.1 IclR family transcriptional regulator [Mycobacterium sp. HUMS_12744610],233
+WP_056549028.1 IclR family transcriptional regulator [Mycobacterium sp. Root135],233
+WP_186242353.1 IclR family transcriptional regulator [Mycobacterium simulans],233
+HEY2196988.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MCB0934384.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MCW2557663.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+HTZ16453.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+HEY5150782.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_043955242.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_059091360.1 IclR family transcriptional regulator [Mycobacterium sp. GA-2829],233
+WP_149373319.1 IclR family transcriptional regulator [Mycolicibacterium sp. P9-64],233
+WP_085256186.1 IclR family transcriptional regulator [Mycobacterium saskatchewanense],233
+WP_264069771.1 IclR family transcriptional regulator [Mycolicibacterium komossense],233
+WP_240258514.1 IclR family transcriptional regulator [Mycobacterium paraterrae],233
+WP_103801563.1 IclR family transcriptional regulator [Mycobacterium kansasii],233
+WP_036354472.1 IclR family transcriptional regulator [Mycobacterium asiaticum],233
+WP_029105769.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],233
+WP_135123842.1 IclR family transcriptional regulator [Mycobacterium sp. PS03-16],233
+WP_284227701.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],233
+WP_122441890.1 IclR family transcriptional regulator [Mycobacterium attenuatum],233
+WP_203800211.1 IclR family transcriptional regulator [Mycobacterium heckeshornense],233
+WP_049747499.1 IclR family transcriptional regulator [Mycolicibacterium goodii],233
+WP_348733271.1 IclR family transcriptional regulator [uncultured Mycolicibacterium sp.],233
+WP_020823240.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_065037873.1 IclR family transcriptional regulator [Mycobacterium asiaticum],233
+MEE9243538.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_065119890.1 IclR family transcriptional regulator [Mycobacterium asiaticum],233
+WP_267316889.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+WP_225324833.1 IclR family transcriptional regulator [Mycobacterium intracellulare],233
+MDR3656772.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_105349331.1 IclR family transcriptional regulator [Mycobacterium sp. ITM-2016-00318],233
+WP_162461154.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],233
+MBI3223522.1 IclR family transcriptional regulator [Mycolicibacterium cosmeticum],233
+WP_136245923.1 IclR family transcriptional regulator [Mycobacterium intracellulare],233
+WP_270718030.1 IclR family transcriptional regulator [Mycolicibacterium sp. BiH015],233
+MCU1694367.1 hypothetical protein [Mycobacterium sp.],233
+WP_073695271.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],233
+WP_065149322.1 IclR family transcriptional regulator [Mycobacterium asiaticum],233
+AQT80856.1 IclR family transcriptional regulator [Mycolicibacterium litorale],233
+WP_083141532.1 IclR family transcriptional regulator [Mycolicibacterium parafortuitum],233
+WP_014380734.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_083112085.1 IclR family transcriptional regulator [Mycobacterium angelicum],233
+WP_043393323.1 IclR family transcriptional regulator [Mycolicibacterium llatzerense],233
+WP_283612501.1 IclR family transcriptional regulator [Mycolicibacterium poriferae],233
+WP_123023860.1 IclR family transcriptional regulator [Mycolicibacterium stellerae],233
+WP_299556355.1 IclR family transcriptional regulator [uncultured Mycolicibacterium sp.],233
+WP_014712098.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_062656334.1 IclR family transcriptional regulator [Mycolicibacterium canariasense],233
+WP_325499623.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_163736230.1 IclR family transcriptional regulator [Mycolicibacterium madagascariense],233
+MBV8964618.1 IclR family transcriptional regulator [Mycobacteriaceae bacterium],233
+WP_057147551.1 IclR family transcriptional regulator [Mycolicibacterium psychrotolerans],233
+WP_065142916.1 IclR family transcriptional regulator [Mycobacterium asiaticum],233
+WP_138229914.1 IclR family transcriptional regulator [Mycolicibacterium aubagnense],233
+HEV7851787.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_085669008.1 IclR family transcriptional regulator [Mycobacterium szulgai],233
+WP_070352193.1 IclR family transcriptional regulator [Mycolicibacterium grossiae],233
+WP_043407480.1 IclR family transcriptional regulator [Mycolicibacterium rufum],233
+WP_207067455.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],233
+MET0756685.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_068024857.1 IclR family transcriptional regulator [Mycobacterium kubicae],233
+WP_024450449.1 IclR family transcriptional regulator [Mycolicibacterium cosmeticum],233
+HXA11572.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_048630611.1 IclR family transcriptional regulator [Mycolicibacterium aurum],233
+WP_211698432.1 IclR family transcriptional regulator [Mycobacterium spongiae],233
+MFO7165040.1 IclR family transcriptional regulator [Mycolicibacterium hassiacum],233
+WP_166555078.1 IclR family transcriptional regulator [Mycolicibacterium sp. CBMA 226],233
+MCW2521450.1 hypothetical protein [Mycobacterium sp.],233
+WP_162462153.1 IclR family transcriptional regulator [Mycolicibacterium sp. CBMA 234],233
+WP_192721264.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+HYO03946.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+CAM4325576.1 IclR family transcriptional regulator [Mycobacterium senriense],233
+WP_023372189.1 IclR family transcriptional regulator [Mycobacterium kansasii],233
+WP_293324400.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_375482929.1 IclR family transcriptional regulator [uncultured Mycobacterium sp.],233
+WP_264037351.1 IclR family transcriptional regulator [Mycobacterium paraffinicum],233
+WP_318982529.1 IclR family transcriptional regulator [Mycolicibacterium sp. 120266],233
+WP_266050043.1 IclR family transcriptional regulator [Mycolicibacterium sp. J2],233
+MDT5336884.1 hypothetical protein [Mycobacterium sp.],233
+WP_355214368.1 IclR family transcriptional regulator [Mycobacterium sp. NPDC006124],233
+WP_349650855.1 IclR family transcriptional regulator [Mycobacterium canetti],233
+WP_142554001.1 IclR family transcriptional regulator [Mycolicibacterium hodleri],233
+WP_318993709.1 IclR family transcriptional regulator [Mycolicibacterium sp. 120270],233
+WP_353359855.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+HXA89225.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_024449116.1 IclR family transcriptional regulator [Mycolicibacterium iranicum],233
+WP_083065417.1 IclR family transcriptional regulator [Mycobacterium arosiense],233
+WP_260751398.1 IclR family transcriptional regulator [Mycobacterium sp. SMC-8],233
+WP_068040735.1 IclR family transcriptional regulator [Mycobacterium sp. E2733],233
+WP_064936210.1 IclR family transcriptional regulator [Mycobacterium intracellulare],233
+WP_068011327.1 IclR family transcriptional regulator [Mycobacterium sp. E3251],233
+MEI7518123.1 IclR family transcriptional regulator [Mycobacteriaceae bacterium],233
+MCB1265451.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_079926233.1 IclR family transcriptional regulator [Mycobacterium sp. AT1],233
+WP_083174051.1 IclR family transcriptional regulator [Mycobacterium paraseoulense],233
+WP_221043851.1 IclR family transcriptional regulator [Mycobacterium senriense],233
+MDD4868433.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_306241469.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_184442892.1 IclR family transcriptional regulator [Mycobacterium sp. AZCC_0083],233
+WP_353368499.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_068214211.1 IclR family transcriptional regulator [Mycobacterium alsense],233
+MDT5257240.1 hypothetical protein [Mycobacterium sp.],233
+WP_133413246.1 IclR family transcriptional regulator [Mycolicibacterium obuense],233
+HZC51810.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_048890799.1 IclR family transcriptional regulator [Mycobacterium heckeshornense],233
+WP_065028049.1 IclR family transcriptional regulator [Mycobacterium colombiense],233
+WP_005626470.1 IclR family transcriptional regulator [Mycolicibacterium hassiacum],233
+WP_178362146.1 MULTISPECIES: IclR family transcriptional regulator domain-containing protein [Mycobacteriaceae],233
+WP_297601242.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_083179626.1 IclR family transcriptional regulator [Mycobacterium scrofulaceum],233
+WP_280825225.1 IclR family transcriptional regulator [Mycobacterium sp. OTB74],233
+WP_264000043.1 IclR family transcriptional regulator [Mycobacterium yunnanensis],233
+WP_076063235.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_085195748.1 IclR family transcriptional regulator [Mycobacterium xenopi],233
+GJF10822.1 IclR family transcriptional regulator [Mycolicibacterium cyprinidarum],233
+WP_003922108.1 IclR family transcriptional regulator [Mycobacterium xenopi],233
+WP_014815120.1 IclR family transcriptional regulator [Mycolicibacterium chubuense],233
+MDT5044703.1 hypothetical protein [Mycobacterium sp.],233
+WP_065048040.1 IclR family transcriptional regulator [Mycobacterium paragordonae],233
+WP_293234359.1 IclR family transcriptional regulator [Mycolicibacterium sp.],233
+WP_163710702.1 IclR family transcriptional regulator [Mycobacterium timonense],233
+WP_064880888.1 IclR family transcriptional regulator [Mycobacterium colombiense],233
+WP_007171324.1 IclR family transcriptional regulator [Mycobacterium parascrofulaceum],233
+WP_067953924.1 IclR family transcriptional regulator [Mycobacterium sp. NAZ190054],233
+MEX0579565.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+HVQ83177.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_066993288.1 IclR family transcriptional regulator [Mycobacterium sp. 1465703.0],233
+MCW2653947.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_370472940.1 IclR family transcriptional regulator [[Mycobacterium] bulgaricum],233
+WP_297735892.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_076125901.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_330980816.1 IclR family transcriptional regulator [Mycobacterium sp. 050128],233
+HEY1441860.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_067254957.1 IclR family transcriptional regulator [Mycobacterium sp. 852002-10029_SCH5224772],233
+WP_163889357.1 IclR family transcriptional regulator [Mycolicibacterium hippocampi],233
+WP_067948233.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_096438525.1 IclR family transcriptional regulator [Mycobacterium shigaense],233
+WP_255061806.1 IclR family transcriptional regulator [Mycolicibacterium arenosum],233
+WP_066981102.1 IclR family transcriptional regulator [Mycobacterium sp. 1274761.0],233
+MBX9640984.1 IclR family transcriptional regulator [Mycobacteriaceae bacterium],233
+WP_083046793.1 IclR family transcriptional regulator [Mycobacterium shinjukuense],233
+WP_048418099.1 IclR family transcriptional regulator [Mycolicibacterium chubuense],233
+WP_293322919.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_318973475.1 IclR family transcriptional regulator [Mycolicibacterium sp. 050158],233
+WP_133447760.1 IclR family transcriptional regulator [Mycobacterium paragordonae],233
+HTX96141.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_064280811.1 IclR family transcriptional regulator [Mycolicibacterium iranicum],233
+WP_343603060.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_065478944.1 IclR family transcriptional regulator [Mycobacterium malmoense],233
+HWF30324.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_068131318.1 IclR family transcriptional regulator [Mycobacterium sp. E796],233
+WP_241204054.1 IclR family transcriptional regulator [Mycobacterium sp. PSTR-4-N],233
+WP_090356962.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],233
+HET9889137.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MBV9090688.1 IclR family transcriptional regulator [Mycobacteriaceae bacterium],233
+WP_067124738.1 IclR family transcriptional regulator [Mycobacterium sp. 852002-51971_SCH5477799-a],233
+WP_097938296.1 IclR family transcriptional regulator [Mycolicibacterium agri],233
+WP_163675207.1 IclR family transcriptional regulator [Mycobacterium seoulense],233
+WP_370333434.1 IclR family transcriptional regulator [Mycolicibacterium hippocampi],233
+WP_310785270.1 IclR family transcriptional regulator [Mycobacterium sp. Z3061],233
+HYR14823.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_064950744.1 IclR family transcriptional regulator [Mycobacterium colombiense],233
+WP_067199814.1 IclR family transcriptional regulator [Mycobacterium sp. 852002-30065_SCH5024008],233
+MDT5318321.1 hypothetical protein [Mycobacterium sp.],233
+WP_243072761.1 IclR family transcriptional regulator [Candidatus Mycolicibacterium alkanivorans],233
+WP_067744648.1 IclR family transcriptional regulator [Mycobacterium sp. 852014-50255_SCH5639931],233
+WP_055576487.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_067115774.1 IclR family transcriptional regulator [Mycobacterium sp. 852002-51057_SCH5723018],233
+WP_183469241.1 IclR family transcriptional regulator [Mycolicibacterium iranicum],233
+HKV18549.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_067266117.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_067009389.1 IclR family transcriptional regulator [Mycobacterium sp. 1081908.1],233
+WP_077090158.1 IclR family transcriptional regulator [Mycobacterium rhizamassiliense],233
+WP_065134464.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_003928679.1 IclR family transcriptional regulator [Mycolicibacterium vaccae],233
+WP_066952499.1 IclR family transcriptional regulator [Mycobacterium sp. 852002-53434_SCH5985345],233
+WP_143818719.1 IclR family transcriptional regulator [Mycolicibacterium sp. 018/SC-01/001],233
+WP_085232187.1 IclR family transcriptional regulator [Mycobacterium conspicuum],233
+WP_065158853.1 IclR family transcriptional regulator [Mycobacterium asiaticum],233
+MCX6484175.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_077098266.1 IclR family transcriptional regulator [Mycobacterium terramassiliense],233
+WP_065472302.1 IclR family transcriptional regulator [Mycobacterium malmoense],233
+WP_163710107.1 IclR family transcriptional regulator [Mycobacterium bourgelatii],233
+WP_046362351.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],233
+WP_325425734.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_096878155.1 IclR family transcriptional regulator [Mycobacterium tuberculosis],233
+WP_067353270.1 IclR family transcriptional regulator [Mycobacterium sp. 1165178.9],233
+WP_260744657.1 IclR family transcriptional regulator [Mycobacterium sp. SMC-2],233
+WP_264037924.1 IclR family transcriptional regulator [Mycolicibacterium hodleri],233
+HET7073938.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_240170037.1 IclR family transcriptional regulator [Mycolicibacillus parakoreensis],233
+WP_085292439.1 IclR family transcriptional regulator [Mycolicibacterium vulneris],233
+HUE33280.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+HWT49419.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_083097356.1 IclR family transcriptional regulator [Mycobacterium mantenii],233
+WP_015303672.1 IclR family transcriptional regulator [Mycobacterium canetti],233
+HCA51568.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+MCX6488706.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_048470109.1 IclR family transcriptional regulator [Mycolicibacterium chlorophenolicum],233
+HEX5252895.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_067276467.1 IclR family transcriptional regulator [Mycobacterium scrofulaceum],233
+WP_073871821.1 IclR family transcriptional regulator [Mycobacterium paraffinicum],233
+WP_067306985.1 IclR family transcriptional regulator [Mycobacterium scrofulaceum],233
+WP_205877144.1 IclR family transcriptional regulator [Mycobacterium gordonae],233
+WP_293037173.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_085077260.1 IclR family transcriptional regulator [Mycobacterium palustre],233
+WP_374022202.1 IclR family transcriptional regulator [Mycobacterium sp. HNNTM2301],233
+WP_132160133.1 IclR family transcriptional regulator [Mycobacterium avium],233
+HWX99089.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_066909321.1 IclR family transcriptional regulator [Mycobacterium interjectum],233
+WP_067835473.1 IclR family transcriptional regulator [Mycobacterium mantenii],233
+WP_068189646.1 IclR family transcriptional regulator [Mycobacterium sp. UM_CSW],233
+WP_062890810.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium avium complex (MAC)],233
+WP_112633904.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_067758343.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+MBX7450248.1 IclR family transcriptional regulator [Mycolicibacterium aurantiacum],233
+WP_085268003.1 IclR family transcriptional regulator [Mycobacterium parmense],233
+WP_197373806.1 IclR family transcriptional regulator [Mycolicibacterium baixiangningiae],233
+WP_158016019.1 IclR family transcriptional regulator [Mycobacterium basiliense],233
+WP_011895072.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],233
+MEI7546272.1 IclR family transcriptional regulator [Mycobacteriaceae bacterium],233
+WP_264011938.1 IclR family transcriptional regulator [[Mycobacterium] manitobense],233
+WP_085177345.1 IclR family transcriptional regulator [Mycobacterium paraense],233
+HEY2501814.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_364971372.1 IclR family transcriptional regulator [Mycobacterium sp. NPDC050551],233
+WP_083019760.1 IclR family transcriptional regulator [Mycobacterium marseillense],233
+WP_057372461.1 IclR family transcriptional regulator [Mycobacterium tuberculosis],233
+UKO64700.1 IclR family transcriptional regulator [Mycobacterium avium subsp. paratuberculosis],233
+WP_193043490.1 IclR family transcriptional regulator [Mycolicibacterium baixiangningiae],233
+OBA75888.1 IclR family transcriptional regulator [Mycobacterium sp. 1554424.7],233
+WP_031700802.1 IclR family transcriptional regulator [Mycobacterium tuberculosis],233
+WP_085102458.1 IclR family transcriptional regulator [Mycobacterium paraense],233
+WP_047313054.1 IclR family transcriptional regulator [Mycobacterium haemophilum],233
+WP_067168931.1 IclR family transcriptional regulator [Mycobacterium marseillense],233
+WP_068102062.1 IclR family transcriptional regulator [Mycobacterium sp. E2327],233
+MFN8070568.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_067094407.1 IclR family transcriptional regulator [Mycobacterium sp. 852002-40037_SCH5390672],233
+WP_068072067.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_068059551.1 IclR family transcriptional regulator [Mycobacterium sp. E342],233
+WP_335333765.1 IclR family transcriptional regulator [Mycobacterium kyogaense],233
+WP_015294081.1 IclR family transcriptional regulator [Mycobacterium canetti],233
+HEX4558481.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_085184390.1 IclR family transcriptional regulator [Mycobacterium sp. IEC1808],233
+WP_068094216.1 IclR family transcriptional regulator [Mycobacterium sp. E2497],233
+HYQ35909.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_159233888.1 IclR family transcriptional regulator [Mycolicibacterium vanbaalenii],233
+WP_324932941.1 IclR family transcriptional regulator [Mycobacterium sp.],233
+WP_112709529.1 IclR family transcriptional regulator [Mycobacterium colombiense],233
+WP_406816455.1 IclR family transcriptional regulator [Mycobacterium sp. M23085],233
+WP_221367227.1 IclR family transcriptional regulator [Mycolicibacterium xanthum],233
+WP_031729698.1 IclR family transcriptional regulator [Mycobacterium tuberculosis],233
+WP_067918887.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_225329118.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacterium],233
+WP_264026696.1 IclR family transcriptional regulator [Mycolicibacterium pyrenivorans],233
+WP_269895043.1 IclR family transcriptional regulator [Mycobacterium hippophais],233
+WP_066862039.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+WP_068078722.1 IclR family transcriptional regulator [Mycobacterium sp. E1747],233
+WP_068217893.1 IclR family transcriptional regulator [Mycobacterium sp. E3339],233
+WP_256101957.1 IclR family transcriptional regulator [Mycobacterium gordonae],233
+WP_057136267.1 IclR family transcriptional regulator [Mycobacterium tuberculosis],233
+WP_083074684.1 IclR family transcriptional regulator [Mycobacterium heidelbergense],233
+WP_054880366.1 IclR family transcriptional regulator [Mycobacterium haemophilum],233
+WP_031669925.1 IclR family transcriptional regulator [Mycobacterium tuberculosis],233
+WP_055384313.1 IclR family transcriptional regulator [Mycobacterium tuberculosis],233
+WP_055403314.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],233
+OBF13695.1 hypothetical protein A5727_16680 [Mycobacterium sp. ACS4331],234
+HEU4362113.1 IclR family transcriptional regulator [Mycobacterium sp.],235
+HEX7322602.1 IclR family transcriptional regulator [Mycobacterium sp.],235
+HEX7322170.1 IclR family transcriptional regulator [Mycobacterium sp.],235
+BBZ35580.1 putative IclR-family regulatory protein [Mycolicibacterium confluentis],236
+MDT5010765.1 hypothetical protein [Mycobacterium sp.],236
+MCV7409044.1 IclR family transcriptional regulator [Mycobacterium florentinum],237
+WP_343571431.1 IclR family transcriptional regulator [Mycobacterium sp.],238
+"WP_261861246.1 IclR family transcriptional regulator, partial [Mycobacterium montefiorense]",239
+WP_319447820.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],239
+MDT5077555.1 hypothetical protein [Mycobacterium sp.],239
+WP_229478909.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],241
+MCW2560084.1 IclR family transcriptional regulator [Mycobacterium sp.],242
+WP_068915343.1 IclR family transcriptional regulator [Mycolicibacterium murale],245
+WP_115278236.1 IclR family transcriptional regulator [Mycolicibacterium tokaiense],245
+WP_083741160.1 IclR family transcriptional regulator [Mycobacterium sp. MS1601],245
+WP_115281903.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],245
+ORA71862.1 IclR family transcriptional regulator [Mycolicibacterium insubricum],245
+SIA58797.1 transcriptional regulator [Mycobacteroides abscessus subsp. abscessus],245
+BBY62341.1 putative IclR-family regulatory protein [Mycolicibacterium helvum],246
+WP_370581588.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],246
+BBY59922.1 putative IclR-family regulatory protein [Mycolicibacterium sarraceniae],246
+WP_234820561.1 IclR family transcriptional regulator [Mycolicibacterium goodii],246
+WP_232836261.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],246
+WP_228025543.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],246
+ANE83170.1 IclR family transcriptional regulator [Mycobacterium adipatum],246
+MDT5076961.1 hypothetical protein [Mycobacterium sp.],246
+MBN7444730.1 IclR family transcriptional regulator [Mycobacteroides abscessus subsp. abscessus],246
+ORV32133.1 hypothetical protein AWB99_10780 [Mycolicibacterium confluentis],246
+WP_206486963.1 IclR family transcriptional regulator [Mycobacteroides abscessus],246
+WP_005098523.1 IclR family transcriptional regulator [Mycobacteroides abscessus],246
+WP_229481624.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],246
+WP_036433955.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],246
+WP_396919121.1 IclR family transcriptional regulator [Mycolicibacterium sp.],246
+AQT81579.1 IclR family transcriptional regulator [Mycolicibacterium litorale],247
+TLH80753.1 IclR family transcriptional regulator [Mycolicibacterium cosmeticum],247
+KUI31755.1 IclR family transcriptional regulator [Mycobacterium sp. GA-2829],247
+AHC24681.2 IclR family transcriptional regulator [Mycolicibacterium neoaurum VKM Ac-1815D],247
+MCW2569536.1 IclR family transcriptional regulator [Mycobacterium sp.],248
+TLH57585.1 IclR family transcriptional regulator [Mycolicibacterium aubagnense],248
+KKF02831.1 IclR family transcriptional regulator [Mycolicibacterium obuense],248
+MUL64108.1 IclR family transcriptional regulator [Mycolicibacterium sp. CBMA 234],248
+BBX29103.1 putative IclR-family regulatory protein [Mycolicibacterium alvei],248
+STZ61038.1 regulatory proteins IclR [Mycolicibacterium tokaiense],248
+WP_164909727.1 IclR family transcriptional regulator domain-containing protein [Mycobacteroides franklinii],249
+WP_162463766.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],249
+WP_330957084.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],249
+WP_232006018.1 IclR family transcriptional regulator [Mycobacterium sp. 852013-50091_SCH5140682],249
+EJZ04773.1 IclR family transcriptional regulator [Mycolicibacterium vaccae ATCC 25954],249
+HYZ69733.1 IclR family transcriptional regulator [Mycobacterium sp.],249
+WP_099038249.1 IclR family transcriptional regulator [Mycobacterium neglectum],249
+BBY27579.1 IclR family transcriptional regulator [Mycolicibacterium sediminis],249
+HEY6645749.1 IclR family transcriptional regulator [Mycobacterium sp.],249
+WP_005083380.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_100464559.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_025239198.1 IclR family transcriptional regulator domain-containing protein [Mycobacteroides abscessus],250
+WP_019164161.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_100451869.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+MBN7552005.1 IclR family transcriptional regulator [Mycobacteroides abscessus subsp. abscessus],250
+WP_074335075.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_100489892.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_119588665.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_074333016.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+MDM2320071.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_302365171.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_074352440.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_100468648.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_100484997.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_100469418.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_195165992.1 IclR family transcriptional regulator domain-containing protein [Mycobacteroides abscessus],250
+WP_079518428.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_074334162.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_005086708.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_074336980.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_025269415.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_079624760.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_195167120.1 IclR family transcriptional regulator domain-containing protein [Mycobacteroides abscessus],250
+WP_074330530.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_070410171.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_079613984.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_016890246.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_005064356.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_020724338.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+WP_043079230.1 IclR family transcriptional regulator [Mycobacteroides immunogenum],250
+WP_290466133.1 IclR family transcriptional regulator [Mycobacteroides immunogenum],250
+WP_064632074.1 IclR family transcriptional regulator [Mycobacteroides immunogenum],250
+KWX23856.1 IclR family transcriptional regulator [Mycolicibacterium wolinskyi],250
+OBA60310.1 IclR family transcriptional regulator [Mycobacterium sp. 1100029.7],250
+WP_108925918.1 IclR family transcriptional regulator [Mycobacterium montefiorense],250
+WP_232078945.1 IclR family transcriptional regulator [Mycobacterium florentinum],250
+ODR10562.1 IclR family transcriptional regulator [Mycobacterium sherrisii],250
+MDT5338296.1 hypothetical protein [Mycobacterium sp.],250
+MET0897724.1 IclR family transcriptional regulator [Mycobacterium sp.],250
+BBY84453.1 putative IclR-family regulatory protein [Mycolicibacterium tokaiense],250
+MDT5072680.1 hypothetical protein [Mycobacterium sp.],250
+WP_255772946.1 IclR family transcriptional regulator [Mycobacteroides abscessus],250
+RKQ94992.1 IclR family transcriptional regulator [Mycolicibacterium mucogenicum 261Sha1.1M5],250
+RKQ83754.1 IclR family transcriptional regulator [Mycolicibacterium mucogenicum 261Sha1.1M5],251
+WP_370065509.1 IclR family transcriptional regulator [Mycobacterium sp. MAA66],251
+TPG29909.1 IclR family transcriptional regulator [Mycolicibacterium hodleri],251
+WP_071942491.1 IclR family transcriptional regulator [Mycolicibacterium pallens],251
+WP_396927930.1 IclR family transcriptional regulator [Mycolicibacterium sp.],251
+"EHB54163.1 transcriptional regulator, IclR family [Mycolicibacterium rhodesiae JS60]",251
+WP_149441936.1 IclR family transcriptional regulator [Mycolicibacterium sp. P1-5],251
+WP_319448206.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],251
+WP_064857301.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],251
+WP_240177133.1 IclR family transcriptional regulator [Mycolicibacterium crocinum],251
+MDR3661272.1 IclR family transcriptional regulator [Mycobacterium sp.],251
+WP_197382951.1 IclR family transcriptional regulator [Mycolicibacterium mengxianglii],251
+WP_212807179.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],251
+WP_073695990.1 IclR family transcriptional regulator [Mycobacterium sp. ST-F2],251
+WP_061005869.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],251
+SHV77324.1 regulatory proteins IclR [Mycobacteroides abscessus subsp. abscessus],251
+WP_293017869.1 IclR family transcriptional regulator [Mycolicibacterium sp.],251
+WP_099249423.1 IclR family transcriptional regulator [Mycobacterium sp. shizuoka-1],251
+WP_155928052.1 IclR family transcriptional regulator [Mycolicibacterium sp. CBMA 234],251
+WP_036420446.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],251
+WP_267318627.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],251
+WP_155905211.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],251
+WP_318985486.1 IclR family transcriptional regulator [Mycolicibacterium sp. 141076],251
+WP_346416019.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],251
+WP_280826066.1 IclR family transcriptional regulator [Mycobacterium sp. OTB74],251
+WP_043984681.1 IclR family transcriptional regulator [Mycolicibacterium llatzerense],251
+WP_085157676.1 IclR family transcriptional regulator [Mycobacterium lacus],251
+WP_201274559.1 IclR family transcriptional regulator [Mycolicibacterium sp. CH28],251
+"MDT5069495.1 IclR family transcriptional regulator, acetate operon repressor [Mycobacterium sp.]",252
+WP_111509474.1 IclR family transcriptional regulator [Mycobacterium kyogaense],252
+WP_036344053.1 IclR family transcriptional regulator [Mycolicibacterium aromaticivorans],252
+WP_083122040.1 IclR family transcriptional regulator [Mycolicibacterium rhodesiae],252
+WP_335336926.1 IclR family transcriptional regulator [Mycolicibacterium neoaurum],252
+WP_036432996.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],252
+WP_396916196.1 IclR family transcriptional regulator [Mycolicibacterium sp.],252
+WP_281570558.1 IclR family transcriptional regulator [Mycolicibacterium neoaurum],252
+WP_102809639.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],252
+WP_068256757.1 IclR family transcriptional regulator [Mycobacterium sp. ACS4331],252
+WP_149378707.1 IclR family transcriptional regulator [Mycobacterium sp. ELW1],252
+WP_302781484.1 IclR family transcriptional regulator [Mycolicibacterium neoaurum],252
+WP_110807134.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],252
+WP_335328817.1 IclR family transcriptional regulator [Mycolicibacterium neoaurum],252
+WP_115321431.1 IclR family transcriptional regulator [Mycolicibacterium aichiense],252
+WP_047331705.1 IclR family transcriptional regulator [Mycobacterium sp. EPa45],252
+MDT5398648.1 hypothetical protein [Mycobacterium sp.],252
+MBU8807441.1 IclR family transcriptional regulator [Mycolicibacterium goodii],253
+WP_036454933.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],253
+WP_083164401.1 IclR family transcriptional regulator [Mycobacterium aquaticum],253
+"WP_235616919.1 IclR family transcriptional regulator, partial [Mycobacterium montefiorense]",253
+WP_011782039.1 IclR family transcriptional regulator [Mycolicibacterium vanbaalenii],253
+WP_011731512.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],253
+AKS36110.1 IclR family transcriptional regulator [Mycolicibacterium goodii],253
+WP_208673952.1 IclR family transcriptional regulator [Mycolicibacterium austroafricanum],253
+WP_330953776.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],253
+OKH82800.1 IclR family transcriptional regulator [Mycobacterium sp. ST-F2],253
+WP_036371127.1 IclR family transcriptional regulator [Mycolicibacterium austroafricanum],253
+WP_064944958.1 IclR family transcriptional regulator [Mycobacterium sp. 852013-50091_SCH5140682],253
+KAB7752157.1 IclR family transcriptional regulator [Mycolicibacterium mucogenicum DSM 44124],253
+WP_222883162.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],253
+WP_318625034.1 IclR family transcriptional regulator [Mycolicibacterium sp. D5.8-2],253
+WP_105389282.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],253
+WP_372923799.1 IclR family transcriptional regulator [Mycolicibacterium vanbaalenii],253
+WP_062828846.1 IclR family transcriptional regulator [Mycolicibacterium brisbanense],253
+WP_097945164.1 IclR family transcriptional regulator [Mycolicibacterium agri],254
+WP_036397632.1 IclR family transcriptional regulator [Mycolicibacterium cosmeticum],254
+ORV48167.1 IclR family transcriptional regulator [Mycobacterium florentinum],254
+VEG49933.1 regulatory proteins IclR [Mycolicibacterium chitae],254
+WP_346411757.1 IclR family transcriptional regulator [Mycolicibacterium cosmeticum],254
+WP_163645372.1 IclR family transcriptional regulator [Mycolicibacterium confluentis],254
+WP_085151661.1 IclR family transcriptional regulator [Mycolicibacterium confluentis],255
+WP_078293092.1 IclR family transcriptional regulator [Mycobacterium sp. D16R24],255
+WP_319436824.1 IclR family transcriptional regulator [Mycobacterium sp. RTGN5],255
+HYO04539.1 IclR family transcriptional regulator [Mycobacterium sp.],255
+HEY5843564.1 IclR family transcriptional regulator [Mycobacterium sp.],255
+WP_163746168.1 IclR family transcriptional regulator [Mycolicibacterium helvum],255
+WP_133696187.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],255
+WP_235677771.1 IclR family transcriptional regulator [Mycolicibacterium sarraceniae],255
+WP_235892782.1 IclR family transcriptional regulator [Mycolicibacterium hodleri],255
+WP_029117948.1 IclR family transcriptional regulator [Mycobacterium sp. URHB0044],255
+WP_179474838.1 IclR family transcriptional regulator [Mycolicibacterium vinylchloridicum],255
+MDT5082691.1 hypothetical protein [Mycobacterium sp.],255
+MFN8102231.1 IclR family transcriptional regulator [Mycobacterium sp.],255
+WP_174401465.1 IclR family transcriptional regulator domain-containing protein [Mycolicibacterium sphagni],255
+MDT5154989.1 hypothetical protein [Mycobacterium sp.],255
+"SBS71026.1 Transcriptional regulator, IclR family [uncultured Mycobacterium sp.]",255
+WP_231963391.1 IclR family transcriptional regulator [Mycobacterium adipatum],255
+MFN8227346.1 IclR family transcriptional regulator [Mycobacterium sp.],255
+WP_370464825.1 IclR family transcriptional regulator [Mycolicibacterium sp. P1-18],255
+MDZ7887103.1 IclR family transcriptional regulator [Mycobacterium sp.],255
+WP_090359696.1 IclR family transcriptional regulator [Mycolicibacterium fluoranthenivorans],255
+WP_105365748.1 IclR family transcriptional regulator [Mycobacterium sp. ITM-2016-00316],255
+MET0995072.1 IclR family transcriptional regulator [Mycobacterium sp.],256
+HEY5149378.1 IclR family transcriptional regulator [Mycobacterium sp.],256
+WP_231743434.1 IclR family transcriptional regulator [Mycobacterium sp. GA-2829],256
+WP_076197857.1 IclR family transcriptional regulator [Mycobacterium sp. GA-1841],256
+ORA32816.1 IclR family transcriptional regulator [Mycobacterium aquaticum],256
+MCV7228111.1 IclR family transcriptional regulator [Mycolicibacterium komossense],256
+WP_149374452.1 IclR family transcriptional regulator [Mycolicibacterium sp. P9-64],256
+WP_184445580.1 IclR family transcriptional regulator [Mycobacterium sp. AZCC_0083],256
+KAA0095211.1 IclR family transcriptional regulator [Mycolicibacterium sp. P1-18],256
+AQT82893.1 hypothetical protein B1R94_17440 [Mycolicibacterium litorale],257
+BBY87114.1 IclR family transcriptional regulator [Mycolicibacterium tokaiense],257
+MDF2825561.1 IclR family transcriptional regulator [Mycobacterium sp.],257
+WP_018602419.1 IclR family transcriptional regulator [Mycobacterium sp. 155],257
+WP_217160704.1 IclR family transcriptional regulator [[Mycobacterium] fortunisiensis],257
+WP_090588960.1 IclR family transcriptional regulator [Mycolicibacterium brumae],257
+WP_019970312.1 IclR family transcriptional regulator [Mycobacterium sp. 141],257
+WP_309227854.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],257
+MDT5278946.1 hypothetical protein [Mycobacterium sp.],257
+WP_216864415.1 IclR family transcriptional regulator [Mycolicibacterium goodii],257
+WP_229479307.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],257
+WP_286214059.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],257
+WP_396899197.1 IclR family transcriptional regulator [Mycolicibacterium sp.],257
+WP_396915727.1 IclR family transcriptional regulator [Mycolicibacterium sp.],257
+WP_036431870.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],257
+WP_067776383.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],257
+WP_276824192.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],257
+WP_163667085.1 IclR family transcriptional regulator [Mycolicibacterium alvei],257
+WP_064883774.1 IclR family transcriptional regulator [Mycolicibacterium peregrinum],257
+WP_235624076.1 IclR family transcriptional regulator [Mycolicibacterium goodii],257
+WP_082449115.1 IclR family transcriptional regulator [Mycolicibacterium peregrinum],257
+WP_064937543.1 IclR family transcriptional regulator [Mycolicibacterium peregrinum],257
+MBP2455901.1 DNA-binding IclR family transcriptional regulator [Mycolicibacterium lutetiense],257
+MCW2588465.1 IclR family transcriptional regulator [Mycobacterium sp.],257
+MDT7758183.1 hypothetical protein [Mycobacterium sp.],257
+MDT5108970.1 hypothetical protein [Mycobacterium sp.],257
+WP_319455686.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],257
+WP_264069211.1 IclR family transcriptional regulator [Mycolicibacterium komossense],257
+MBE5454176.1 hypothetical protein [Mycobacteroides abscessus],258
+WP_029116650.1 IclR family transcriptional regulator [Mycobacterium sp. URHB0044],258
+WP_178360145.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],258
+WP_163700921.1 IclR family transcriptional regulator [Mycolicibacterium agri],258
+WP_073911837.1 IclR family transcriptional regulator [Mycolicibacterium sp.],258
+WP_036437219.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],258
+BBY86744.1 IclR family transcriptional regulator [Mycolicibacterium tokaiense],258
+WP_286211704.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],258
+WP_316512023.1 IclR family transcriptional regulator [[Mycobacterium] wendilense],258
+MET0699657.1 IclR family transcriptional regulator [Mycobacterium sp.],258
+AWT57531.1 glycerol operon regulatory protein [Mycolicibacterium smegmatis MKD8],258
+MEZ0051130.1 DNA-binding IclR family transcriptional regulator [Mycobacterium sp. MAA66],258
+WP_015297625.1 IclR family transcriptional regulator [Mycobacterium sp. JS623],258
+STZ34675.1 transcriptional regulator IclR [Mycolicibacterium smegmatis],258
+WP_179967116.1 IclR family transcriptional regulator [Mycolicibacterium chitae],258
+WP_372942296.1 IclR family transcriptional regulator [Mycolicibacterium sp.],258
+WP_029117508.1 IclR family transcriptional regulator [Mycobacterium sp. URHB0044],258
+WP_179961182.1 IclR family transcriptional regulator [Mycolicibacterium insubricum],258
+MDT5151130.1 hypothetical protein [Mycobacterium sp.],258
+KAA0099041.1 IclR family transcriptional regulator [Mycolicibacterium sp. P1-18],258
+MET0454691.1 IclR family transcriptional regulator [Mycobacterium sp.],258
+MCB9440609.1 IclR family transcriptional regulator [Mycolicibacterium sp.],258
+MET0474746.1 IclR family transcriptional regulator [Mycobacterium sp.],258
+MFN8067697.1 IclR family transcriptional regulator [Mycolicibacterium insubricum],258
+WP_138232640.1 IclR family transcriptional regulator [Mycolicibacterium aubagnense],258
+WP_246231036.1 IclR family transcriptional regulator [Mycolicibacterium sediminis],258
+WP_135427296.1 IclR family transcriptional regulator [Mycolicibacterium sp. CH28],258
+WP_149372475.1 IclR family transcriptional regulator [Mycolicibacterium sp. P9-64],258
+WP_068132266.1 IclR family transcriptional regulator [Mycobacterium sp. E796],258
+AQA04154.1 IclR family transcriptional regulator [Mycobacterium sp. MS1601],258
+WP_079630320.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],258
+WP_095795050.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],258
+WP_029112550.1 IclR family transcriptional regulator [Mycobacterium sp. URHB0044],258
+WP_163891442.1 IclR family transcriptional regulator [Mycolicibacterium hippocampi],259
+WP_370333860.1 IclR family transcriptional regulator [Mycolicibacterium hippocampi],259
+WP_159235242.1 IclR family transcriptional regulator [Mycolicibacterium vanbaalenii],259
+WP_040543056.1 IclR family transcriptional regulator [Mycolicibacterium vaccae],259
+WP_311113249.1 IclR family transcriptional regulator [Mycobacterium sp. ITM-2016-00317],259
+WP_260753361.1 IclR family transcriptional regulator [Mycobacterium sp. SMC-8],259
+WP_143817301.1 IclR family transcriptional regulator [Mycolicibacterium sp. 018/SC-01/001],259
+WP_198529216.1 IclR family transcriptional regulator [Mycolicibacterium obuense],259
+MBX7448166.1 IclR family transcriptional regulator [Mycolicibacterium aurantiacum],259
+WP_018602434.1 IclR family transcriptional regulator [Mycobacterium sp. 155],259
+WP_019970299.1 IclR family transcriptional regulator [Mycobacterium sp. 141],259
+WP_085153637.1 IclR family transcriptional regulator [Mycolicibacterium confluentis],259
+WP_068254086.1 IclR family transcriptional regulator [Mycobacterium sp. ACS4331],259
+MUL84045.1 IclR family transcriptional regulator [Mycolicibacterium sp. CBMA 329],259
+CNF90826.1 IclR family transcriptional regulator [Mycobacterium tuberculosis],259
+WP_317154967.1 IclR family transcriptional regulator [Mycobacterium sp. 21AC1],259
+WP_307870117.1 IclR family transcriptional regulator [Mycolicibacterium lutetiense],259
+WP_272938786.1 IclR family transcriptional regulator [Mycolicibacterium agri],259
+WP_003895560.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],259
+WP_253803455.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],259
+STZ59723.1 IclR family transcriptional regulator [Mycolicibacterium tokaiense],259
+MET0993939.1 IclR family transcriptional regulator [Mycobacterium sp.],259
+WP_318986457.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],260
+WP_406803639.1 IclR family transcriptional regulator [Mycobacterium sp. SMC-18],260
+WP_212806874.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],260
+MBO0884660.1 IclR family transcriptional regulator [Mycobacterium sp.],260
+WP_179970295.1 IclR family transcriptional regulator [Mycolicibacterium aubagnense],260
+HJT96395.1 IclR family transcriptional regulator [Mycobacterium sp.],260
+MDT5070017.1 hypothetical protein [Mycobacterium sp.],260
+WP_155925736.1 IclR family transcriptional regulator [Mycolicibacterium sp. CBMA 234],260
+WP_406802563.1 IclR family transcriptional regulator [Mycobacterium sp. SMC-17],260
+WP_174557709.1 IclR family transcriptional regulator [Mycobacterium sp. ST-F2],260
+MDT5109049.1 hypothetical protein [Mycobacterium sp.],260
+HEX3288883.1 IclR family transcriptional regulator [Mycobacterium sp.],260
+MCW2560390.1 IclR family transcriptional regulator [Mycobacterium sp.],260
+WP_011731092.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],260
+WP_158167502.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],260
+WP_214311795.1 IclR family transcriptional regulator [Mycolicibacterium goodii],260
+WP_036453949.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],260
+WP_233043455.1 IclR family transcriptional regulator [Mycolicibacterium smegmatis],260
+WP_214385215.1 IclR family transcriptional regulator [Mycolicibacterium goodii],260
+WP_073681012.1 IclR family transcriptional regulator [Mycolicibacterium goodii],260
+WP_409502582.1 IclR family transcriptional regulator [Mycolicibacterium wolinskyi],260
+WP_240173684.1 IclR family transcriptional regulator [Mycolicibacterium goodii],260
+WP_085143211.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],260
+WP_067850321.1 IclR family transcriptional regulator [Mycolicibacterium wolinskyi],260
+HYP95860.1 IclR family transcriptional regulator [Mycobacterium sp.],260
+WP_100463226.1 IclR family transcriptional regulator [Mycobacteroides abscessus],260
+WP_074341281.1 IclR family transcriptional regulator [Mycobacteroides abscessus],260
+WP_206482334.1 IclR family transcriptional regulator [Mycobacteroides abscessus],260
+WP_313861002.1 IclR family transcriptional regulator [Mycobacterium sp.],260
+SHP71135.1 glycerol operon regulatory protein [Mycobacteroides abscessus subsp. abscessus],260
+WP_186002488.1 IclR family transcriptional regulator [Mycobacterium sp. KBS0706],260
+WP_276821799.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],261
+WP_036430638.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],261
+WP_073675842.1 IclR family transcriptional regulator [Mycolicibacterium goodii],261
+MDT5125364.1 hypothetical protein [Mycobacterium sp.],261
+WP_049742960.1 IclR family transcriptional regulator [Mycolicibacterium goodii],261
+WP_067849025.1 IclR family transcriptional regulator [Mycolicibacterium wolinskyi],261
+WP_085147529.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],261
+WP_409502300.1 IclR family transcriptional regulator [Mycolicibacterium wolinskyi],261
+MDT5363988.1 hypothetical protein [Mycobacterium sp.],261
+MDT5198614.1 hypothetical protein [Mycobacterium sp.],261
+MDT5236848.1 hypothetical protein [Mycobacterium sp.],261
+WP_353323693.1 IclR family transcriptional regulator [Mycobacterium sp.],261
+HJT92559.1 IclR family transcriptional regulator [Mycobacterium sp.],261
+WP_260994160.1 IclR family transcriptional regulator [Mycobacterium deserti],261
+MCW2593368.1 IclR family transcriptional regulator [Mycobacterium sp.],261
+MDT5216949.1 hypothetical protein [Mycobacterium sp.],261
+MDT7758121.1 hypothetical protein [Mycobacterium sp.],261
+WP_207357379.1 IclR family transcriptional regulator [Mycolicibacterium sp. S2-37],261
+WP_083452727.1 IclR family transcriptional regulator [Mycolicibacterium goodii],261
+WP_069413390.1 IclR family transcriptional regulator [Mycolicibacterium flavescens],261
+MCW2516115.1 IclR family transcriptional regulator [Mycobacterium sp.],261
+MDT5067548.1 hypothetical protein [Mycobacterium sp.],261
+WP_407663616.1 IclR family transcriptional regulator [Mycolicibacterium insubricum],261
+MCW2731249.1 IclR family transcriptional regulator [Mycobacterium sp.],261
+MCW2520768.1 IclR family transcriptional regulator [Mycobacterium sp.],261
+WP_149445892.1 IclR family transcriptional regulator [Mycolicibacterium sp. P9-22],261
+MDT5077673.1 hypothetical protein [Mycobacterium sp.],261
+WP_327536748.1 IclR family transcriptional regulator [uncultured Mycolicibacterium sp.],262
+WP_059157389.1 IclR family transcriptional regulator [Mycobacterium sp. IS-1496],262
+WP_317160510.1 IclR family transcriptional regulator [Mycobacterium sp. 21AC1],262
+WP_110316641.1 IclR family transcriptional regulator [Mycolicibacterium moriokaense],262
+WP_193048670.1 IclR family transcriptional regulator [Mycolicibacterium baixiangningiae],262
+WP_197376926.1 IclR family transcriptional regulator [Mycolicibacterium baixiangningiae],262
+WP_059095525.1 IclR family transcriptional regulator [Mycobacterium sp. IS-1742],262
+MDT5209194.1 hypothetical protein [Mycobacterium sp.],262
+WP_064917052.1 IclR family transcriptional regulator [Mycolicibacterium monacense],262
+WP_011855597.1 IclR family transcriptional regulator [Mycolicibacterium monacense],262
+WP_064875944.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],262
+WP_319452101.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],262
+WP_059092788.1 IclR family transcriptional regulator [Mycobacterium sp. GA-2829],262
+WP_135125186.1 IclR family transcriptional regulator [Mycobacterium sp. PS03-16],262
+WP_185295864.1 IclR family transcriptional regulator [Mycolicibacterium litorale],262
+WP_134051992.1 IclR family transcriptional regulator [Mycolicibacterium litorale],262
+MCF6389721.1 IclR family transcriptional regulator [Mycobacterium sp. MBM],262
+GAY16399.1 putative IclR-family regulatory protein [Mycobacterium sp. shizuoka-1],262
+HEX7826919.1 IclR family transcriptional regulator [Mycobacterium sp.],262
+WP_135424303.1 IclR family transcriptional regulator [Mycolicibacterium sp. CH28],263
+WP_048631655.1 IclR family transcriptional regulator [Mycolicibacterium aurum],263
+WP_184440505.1 IclR family transcriptional regulator [Mycobacterium sp. AZCC_0083],263
+MDT5196752.1 hypothetical protein [Mycobacterium sp.],263
+WP_149375212.1 IclR family transcriptional regulator [Mycolicibacterium sp. P9-64],263
+WP_149372483.1 IclR family transcriptional regulator [Mycolicibacterium sp. P9-64],263
+HYO00766.1 IclR family transcriptional regulator [Mycobacterium sp.],263
+WP_097941045.1 IclR family transcriptional regulator [Mycolicibacterium agri],263
+WP_045375663.1 IclR family transcriptional regulator [Mycobacterium kyorinense],263
+WP_245839758.1 IclR family transcriptional regulator [Mycobacterium aquaticum],263
+WP_223258967.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriales],263
+WP_178359393.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],263
+MCU1698133.1 IclR family transcriptional regulator [Mycobacterium sp.],263
+MDT5115018.1 hypothetical protein [Mycobacterium sp.],263
+WP_409504660.1 IclR family transcriptional regulator [Mycolicibacterium wolinskyi],263
+BBX35243.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],263
+GJJ19767.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],263
+WP_234790678.1 IclR family transcriptional regulator [Mycolicibacterium wolinskyi],263
+WP_183472182.1 IclR family transcriptional regulator [Mycolicibacterium iranicum],264
+WP_083144462.1 IclR family transcriptional regulator [Mycolicibacterium parafortuitum],264
+WP_234816268.1 IclR family transcriptional regulator [Mycolicibacterium agri],264
+WP_024445810.1 IclR family transcriptional regulator [Mycolicibacterium iranicum],264
+WP_349268600.1 IclR family transcriptional regulator [Mycolicibacterium parafortuitum],264
+WP_064285260.1 IclR family transcriptional regulator [Mycolicibacterium iranicum],264
+WP_197383620.1 IclR family transcriptional regulator [Mycolicibacterium mengxianglii],264
+WP_278040124.1 IclR family transcriptional regulator [Mycobacterium sp. 236(2023)],264
+WP_199255938.1 IclR family transcriptional regulator [Mycolicibacterium mengxianglii],264
+WP_193491781.1 IclR family transcriptional regulator [Mycolicibacterium murale],264
+WP_068915004.1 IclR family transcriptional regulator [Mycolicibacterium tokaiense],264
+WP_115279230.1 IclR family transcriptional regulator [Mycolicibacterium tokaiense],264
+HZC10574.1 IclR family transcriptional regulator [Mycobacterium sp.],264
+SHS20736.1 transcriptional regulator IclR [Mycobacteroides abscessus subsp. abscessus],264
+WP_198344015.1 IclR family transcriptional regulator [Mycobacterium dioxanotrophicus],264
+WP_337424779.1 IclR family transcriptional regulator [Mycolicibacterium agri],264
+AKS33779.1 hypothetical protein AFA91_19920 [Mycolicibacterium goodii],264
+MDT5303475.1 hypothetical protein [Mycobacterium sp.],264
+TGD86540.1 IclR family transcriptional regulator [Mycolicibacterium sp. CH28],264
+WP_374159658.1 IclR family transcriptional regulator [Mycobacterium sp. G7A2],265
+WP_207064704.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriaceae],265
+WP_283612887.1 IclR family transcriptional regulator [Mycolicibacterium poriferae],265
+WP_163676152.1 IclR family transcriptional regulator [Mycolicibacterium poriferae],265
+WP_348733240.1 IclR family transcriptional regulator [uncultured Mycolicibacterium sp.],265
+WP_283633940.1 IclR family transcriptional regulator [Mycolicibacterium poriferae],265
+WP_239340535.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],265
+MDT5189006.1 hypothetical protein [Mycobacterium sp.],265
+MDT5266774.1 hypothetical protein [Mycobacterium sp.],265
+WP_263994019.1 IclR family transcriptional regulator [Mycobacterium yunnanensis],265
+MDT5127368.1 hypothetical protein [Mycobacterium sp.],265
+WP_149372494.1 IclR family transcriptional regulator [Mycolicibacterium sp. P9-64],265
+WP_068139535.1 IclR family transcriptional regulator [Mycobacterium sp. E796],265
+WP_068093670.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],265
+MCW2689785.1 IclR family transcriptional regulator [Mycobacterium sp.],265
+WP_308479479.1 IclR family transcriptional regulator [[Mycobacterium] burgundiense],265
+WP_232326889.1 IclR family transcriptional regulator [Mycobacterium sherrisii],265
+WP_270714446.1 IclR family transcriptional regulator [Mycolicibacterium sp. BiH015],266
+PEG42685.1 IclR family transcriptional regulator [Mycolicibacterium agri],266
+MCV7183164.1 IclR family transcriptional regulator [Mycolicibacterium murale],266
+HEV7361855.1 IclR family transcriptional regulator [Mycobacterium sp.],266
+MDT5080589.1 hypothetical protein [Mycobacterium sp.],266
+MDT5149726.1 hypothetical protein [Mycobacterium sp.],266
+WP_016895390.1 MULTISPECIES: IclR family transcriptional regulator [Mycobacteriales],266
+HEX4391089.1 IclR family transcriptional regulator [Mycobacterium sp.],266
+WP_325670418.1 IclR family transcriptional regulator [Mycobacterium sp.],267
+WP_011893964.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],267
+WP_013471503.1 IclR family transcriptional regulator [Mycolicibacterium gilvum],267
+AKS31030.1 transcriptional regulator [Mycolicibacterium goodii],267
+WP_313862809.1 IclR family transcriptional regulator [Mycobacterium sp.],267
+HEV7579284.1 IclR family transcriptional regulator [Mycobacterium sp.],267
+WP_409551190.1 IclR family transcriptional regulator [Mycolicibacterium septicum],267
+WP_235653999.1 IclR family transcriptional regulator [Mycolicibacterium houstonense],267
+WP_276126817.1 IclR family transcriptional regulator [Mycolicibacterium septicum],267
+WP_273733281.1 IclR family transcriptional regulator [Mycolicibacterium septicum],267
+WP_235732735.1 IclR family transcriptional regulator [Mycolicibacterium septicum],267
+WP_317158882.1 IclR family transcriptional regulator [Mycobacterium sp. 21AC1],268
+WP_353361335.1 IclR family transcriptional regulator [Mycobacterium sp.],268
+OBB09642.1 IclR family transcriptional regulator [Mycobacteriaceae bacterium 1482268.1],268
+HZN80871.1 IclR family transcriptional regulator [Mycobacterium sp.],268
+HEX2401249.1 IclR family transcriptional regulator [Mycobacterium sp.],268
+HEY6576889.1 IclR family transcriptional regulator [Mycobacterium sp.],268
+WP_155900917.1 IclR family transcriptional regulator [Mycolicibacterium sp. CBMA 226],268
+WP_193488171.1 IclR family transcriptional regulator [Mycolicibacterium murale],268
+WP_163907980.1 IclR family transcriptional regulator [Mycolicibacterium tokaiense],268
+TSD87661.1 IclR family transcriptional regulator [Mycobacterium sp. KBS0706],268
+HJT92352.1 IclR family transcriptional regulator [Mycobacterium sp.],269
+WP_302913510.1 IclR family transcriptional regulator [Mycolicibacterium arseniciresistens],269
+WP_264010663.1 IclR family transcriptional regulator [[Mycobacterium] manitobense],269
+WP_269895370.1 IclR family transcriptional regulator [Mycobacterium hippophais],269
+WP_140696980.1 IclR family transcriptional regulator [Mycolicibacterium hodleri],269
+WP_073905837.1 IclR family transcriptional regulator [Mycolicibacterium sp.],269
+WP_263997105.1 IclR family transcriptional regulator [Mycobacterium yunnanensis],269
+WP_255507072.1 IclR family transcriptional regulator [Mycobacterium sp. AZCC_0083],269
+WP_264041410.1 IclR family transcriptional regulator [Mycolicibacterium hodleri],269
+WP_364980881.1 IclR family transcriptional regulator [Mycobacterium sp. NPDC050551],269
+WP_318974255.1 IclR family transcriptional regulator [Mycolicibacterium sp. 050158],269
+WP_293242185.1 IclR family transcriptional regulator [Mycolicibacterium sp.],269
+WP_264069169.1 IclR family transcriptional regulator [Mycolicibacterium komossense],269
+WP_255469713.1 IclR family transcriptional regulator [Mycolicibacterium sp. P1-18],269
+WP_084229242.1 IclR family transcriptional regulator [Mycobacterium sherrisii],269
+WP_081662220.1 IclR family transcriptional regulator [Mycobacterium simiae],269
+WP_270713379.1 IclR family transcriptional regulator [Mycolicibacterium sp. BiH015],269
+WP_064279511.1 IclR family transcriptional regulator [Mycolicibacterium iranicum],269
+MET0450656.1 IclR family transcriptional regulator [Mycobacterium sp.],270
+WP_149481160.1 IclR family transcriptional regulator [Mycolicibacterium sp. P1-18],270
+WP_142554632.1 IclR family transcriptional regulator [Mycolicibacterium hodleri],270
+WP_355215920.1 IclR family transcriptional regulator [Mycobacterium sp. NPDC006124],270
+WP_079927567.1 IclR family transcriptional regulator [Mycobacterium sp. AT1],270
+MCW2518086.1 IclR family transcriptional regulator [Mycobacterium sp.],270
+MCW2733162.1 IclR family transcriptional regulator [Mycobacterium sp.],270
+MCW2516129.1 IclR family transcriptional regulator [Mycobacterium sp.],270
+WP_241404828.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],270
+WP_056552950.1 IclR family transcriptional regulator [Mycobacterium sp. Root135],270
+WP_049745818.1 IclR family transcriptional regulator [Mycolicibacterium goodii],270
+"MDT5149930.1 IclR family transcriptional regulator, acetate operon repressor [Mycobacterium sp.]",270
+HEX4559279.1 IclR family transcriptional regulator [Mycobacterium sp.],271
+WP_051641569.1 IclR family transcriptional regulator [Mycobacterium triplex],271
+WP_051465176.1 IclR family transcriptional regulator [Mycobacterium genavense],271
+WP_084952798.1 IclR family transcriptional regulator [Mycobacterium simiae],271
+HEV7583642.1 IclR family transcriptional regulator [Mycobacterium sp.],271
+WP_261863722.1 IclR family transcriptional regulator [Mycobacterium montefiorense],271
+WP_081662241.1 IclR family transcriptional regulator [Mycobacterium simiae],271
+WP_163789663.1 IclR family transcriptional regulator [Mycobacterium stomatepiae],271
+WP_082109706.1 IclR family transcriptional regulator [Mycobacterium sp. UM_Kg1],271
+WP_407664076.1 IclR family transcriptional regulator [Mycolicibacterium murale],272
+BBY85611.1 IclR family transcriptional regulator [Mycolicibacterium tokaiense],272
+WP_085256542.1 IclR family transcriptional regulator [Mycobacterium saskatchewanense],272
+WP_248606608.1 IclR family transcriptional regulator [Mycobacterium colombiense],272
+WP_067001472.1 IclR family transcriptional regulator [Mycobacterium sp. 1465703.0],272
+WP_112710595.1 IclR family transcriptional regulator [Mycobacterium colombiense],272
+WP_066859777.1 IclR family transcriptional regulator [Mycobacterium sp. 1482292.6],272
+WP_066882410.1 IclR family transcriptional regulator [Mycobacterium sp. 1245801.1],272
+WP_044484843.1 IclR family transcriptional regulator [Mycobacterium colombiense],272
+WP_068128186.1 IclR family transcriptional regulator [Mycobacterium sp. E796],272
+WP_064954463.1 IclR family transcriptional regulator [Mycobacterium colombiense],272
+WP_067020031.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],272
+WP_068186611.1 IclR family transcriptional regulator [Mycobacterium sp. UM_CSW],272
+WP_067156794.1 IclR family transcriptional regulator [Mycobacterium sp. 1245805.9],272
+WP_068025037.1 IclR family transcriptional regulator [Mycobacterium kubicae],272
+WP_068157764.1 IclR family transcriptional regulator [Mycobacterium kubicae],272
+ART70785.1 IclR family transcriptional regulator [Mycobacterium dioxanotrophicus],272
+WP_068073849.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],272
+WP_067116527.1 IclR family transcriptional regulator [Mycobacterium sp. 852002-51057_SCH5723018],272
+OBA75822.1 IclR family transcriptional regulator [Mycobacterium sp. 1554424.7],272
+"SCX24426.1 transcriptional regulator, IclR family [Mycolicibacterium fluoranthenivorans]",272
+MDT5001035.1 hypothetical protein [Mycobacterium sp.],273
+WP_319450186.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacterium],273
+WP_243858220.1 IclR family transcriptional regulator [Mycobacterium sp. DL440],273
+WP_173007937.1 IclR family transcriptional regulator [Mycolicibacterium sp. P1-18],273
+SHS23589.1 transcriptional regulator [Mycobacteroides abscessus subsp. abscessus],275
+SBS76080.1 IclR-family transcriptional regulator [uncultured Mycobacterium sp.],276
+WP_085166580.1 IclR family transcriptional regulator [Mycobacterium sherrisii],276
+WP_267890096.1 IclR family transcriptional regulator [Mycobacteroides abscessus],276
+WP_269087717.1 IclR family transcriptional regulator [Mycobacteroides abscessus],276
+WP_235680646.1 IclR family transcriptional regulator [Mycobacteroides abscessus],276
+WP_268803197.1 IclR family transcriptional regulator [Mycobacteroides abscessus],276
+WP_014850824.1 IclR family transcriptional regulator [Mycobacteroides abscessus],276
+WP_267890346.1 IclR family transcriptional regulator [Mycobacteroides abscessus],276
+WP_228845529.1 IclR family transcriptional regulator [Mycobacteroides abscessus],276
+WP_301683156.1 IclR family transcriptional regulator [Mycolicibacterium sp. HK-90],276
+WP_236950022.1 IclR family transcriptional regulator [Mycobacterium sp. MS1601],276
+MDT5104441.1 hypothetical protein [Mycobacterium sp.],277
+WP_126335830.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],277
+TRW81537.1 IclR family transcriptional regulator [Mycolicibacterium sp. 018/SC-01/001],277
+"SHR16871.1 Putative transcriptional regulator, IclR family [Mycobacteroides abscessus subsp. abscessus]",278
+MET0703931.1 IclR family transcriptional regulator [Mycobacterium sp.],278
+MDT5152005.1 hypothetical protein [Mycobacterium sp.],279
+WP_155940470.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycobacteroides],281
+"WP_050979177.1 IclR family transcriptional regulator, partial [Mycolicibacterium conceptionense]",281
+MCU1695166.1 IclR family transcriptional regulator [Mycobacterium sp.],282
+WP_090424234.1 IclR family transcriptional regulator [Mycolicibacterium nivoides],283
+QRY53480.1 IclR family transcriptional regulator [Mycolicibacterium septicum],283
+"MDT5148319.1 IclR family transcriptional regulator, acetate operon repressor [Mycobacterium sp.]",284
+MET0703251.1 IclR family transcriptional regulator [Mycobacterium sp.],284
+GKU33964.1 IclR family transcriptional regulator [Mycobacterium montefiorense],284
+WP_237158546.1 IclR family transcriptional regulator [Mycolicibacterium fortuitum],284
+WP_234790079.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],284
+WP_237162231.1 IclR family transcriptional regulator [Mycolicibacterium fortuitum],284
+WP_225506442.1 IclR family transcriptional regulator [Mycolicibacterium fortuitum],284
+WP_230022133.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],284
+WP_396918324.1 IclR family transcriptional regulator [Mycolicibacterium sp.],284
+WP_276823698.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],284
+WP_229479099.1 IclR family transcriptional regulator [Mycolicibacterium mageritense],284
+WP_102133954.1 IclR family transcriptional regulator [Mycolicibacterium fortuitum],284
+WP_234789332.1 IclR family transcriptional regulator [Mycolicibacterium fortuitum],284
+WP_301121841.1 IclR family transcriptional regulator [Mycolicibacterium fortuitum],284
+WP_155907049.1 MULTISPECIES: IclR family transcriptional regulator [unclassified Mycolicibacterium],284
+WP_346407329.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],284
+KAA0099485.1 IclR family transcriptional regulator [Mycolicibacterium sp. P1-18],284
+WP_048896138.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],284
+WP_064895894.1 MULTISPECIES: IclR family transcriptional regulator [Mycolicibacterium],284
+WP_065064739.1 IclR family transcriptional regulator [Mycolicibacterium conceptionense],284
+HEV7422555.1 IclR family transcriptional regulator [Mycobacterium sp.],285
+WP_199179637.1 IclR family transcriptional regulator [Mycolicibacterium goodii],290
+WP_255506900.1 IclR family transcriptional regulator [Mycolicibacterium sp. 018/SC-01/001],291
+KMV16303.1 transcriptional regulator [Mycolicibacterium conceptionense],291
+WP_246243591.1 IclR family transcriptional regulator [Mycolicibacterium murale],292
+CPT77855.1 regulatory proteins IclR [Mycobacteroides abscessus],292
+PJK19778.1 IclR family transcriptional regulator [Mycolicibacterium goodii],294
+PEG37485.1 IclR family transcriptional regulator [Mycolicibacterium agri],295
+NOR02065.1 IclR family transcriptional regulator [Mycolicibacterium fortuitum],304
+MCV7066107.1 IclR family transcriptional regulator [Mycolicibacterium farcinogenes],304
+MBP3086222.1 IclR family transcriptional regulator [Mycolicibacterium fortuitum],304
+UBV20180.1 IclR family transcriptional regulator [Mycolicibacterium fortuitum],304
+TXI57257.1 MAG: IclR family transcriptional regulator [Mycolicibacterium mageritense],304
+AMD54331.1 transcriptional regulator [Mycolicibacterium fortuitum subsp. fortuitum DSM 46621 = ATCC 6841 = JCM 6387],304
+HEY9267132.1 IclR family transcriptional regulator [Mycobacterium sp.],306
+WP_235653652.1 IclR family transcriptional regulator [Mycolicibacter icosiumassiliensis],311
+EUA14077.1 bacterial transcriptional regulator family protein [Mycobacterium xenopi 4042],380
+"SHU56231.1 Putative transcriptional regulator, IclR [Mycobacteroides abscessus subsp. abscessus]",453
